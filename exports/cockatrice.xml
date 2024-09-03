@@ -75,14 +75,15 @@ Choose a permanent type. Until end of turn, whenever a permanent you control of 
  <name>Aeomar, Spiritfarer</name>
  <set rarity="mythic">JVC</set>
  <color>G</color>
- <manacost>2G // 1G</manacost>
+ <manacost>2G // 2G</manacost>
  <cmc>3</cmc>
  <type>Legendary Creature - Elk Spirit  // Instant - Adventure </type>
  <pt>3/3</pt>
  <tablerow>3</tablerow>
- <text>When Aeomar, Spiritfarer enters or attacks, choose any number of creature cards you own on an adventure. Create a token copy of each of those creatures.
+ <text>Ward 3
+You may cast Adventure spells from your graveyard.
 --- 
-Draw a card for each creature you control.</text>
+Draw a card for each creature you control and each card you own on an Adventure.</text>
 </card>
 <card>
  <name>Sage of Vainamoinen</name>
@@ -145,7 +146,7 @@ Whenever you discard a noncreature, nonland card, exile the top two cards of you
  <type>Instant</type>
  <tablerow>3</tablerow>
  <text>Create a token that’s a copy of target creature card in your graveyard. It gains haste. Sacrifice it at the beginning of the next end step.
-Hivemind (As you cast this spell, you may tap an untapped Vircek creature you control. When you do, copy it and you may choose a new target for the copy.)</text>
+Flashback—1R, Discard three cards (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 </card>
 <card>
  <name>Zheng Yi Sao, Red Fleet Queen</name>
@@ -394,13 +395,12 @@ Hellbent — As long as you have no cards in hand, creatures you control have me
  <name>Arphoros, the Fallen One</name>
  <set rarity="mythic">JVC</set>
  <color>R</color>
- <manacost>6RR</manacost>
- <cmc>8</cmc>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
  <type>Legendary Enchantment Creature - God </type>
  <pt>6/6</pt>
  <tablerow>2</tablerow>
- <text>Indestructible
-As long as the number of creature cards in your graveyard is less than six, Arphoros, the Fallen One isn’t a creature.
+ <text>As long as the number of creature cards in your graveyard is less than six, Arphoros, the Fallen One isn’t a creature.
 When Arphoros, the Fallen One enters or attacks, it deals 6 damage divided as you choose among any number of targets.
 Escape—RR, Exile six cards from your graveyard.</text>
 </card>
@@ -526,7 +526,7 @@ Gravestorm (When you cast this spell, copy it for each permanent put into a grav
  <cmc>3</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>T: Plunder target opponent for 1. (Exile the topcard of target opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)
+ <text>T: Plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)
 Sacrifice an artifact: Create a 1/1 black Bat creature token with flying.</text>
 </card>
 <card>
@@ -682,8 +682,8 @@ Whenever you cast an Adventure spell or venture into the dungeon, add one mana o
  <cmc>1</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>R: Put an artifact or creature card from your hand onto the battlefield, then sacrifice it.
-GW: The next time a permanent you control would be sacrificed this turn, instead you may return it to your hand. </text>
+ <text>R: Put an artifact or creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next phase.
+GW: The next time a permanent you control would be sacrificed this turn, instead you may return it to its owner’s hand. </text>
 </card>
 <card>
  <name>Ring of the Mad Mage</name>
@@ -694,7 +694,7 @@ GW: The next time a permanent you control would be sacrificed this turn, instead
  <type>Legendary Artifact</type>
  <tablerow>1</tablerow>
  <text>Ring of the Mad Mage costs 8 less to cast if you’ve completed The Dungeon of the Mad Mage.
-T: Create a copy of a card you own from outside the game chosen at random. You may cast the copy without paying its mana cost. If the chosen card is a land card, untap Ring of the Mad Mage.</text>
+T: Choose three Magic: The Gathering cards at random, then create a copy of each of those cards. You may cast the copies without paying their mana costs.</text>
 </card>
 <card>
  <name>Tides of Fate</name>
@@ -775,7 +775,7 @@ T: Add C.</text>
  <type>Artifact</type>
  <tablerow>1</tablerow>
  <text>T: Add one mana of any color and put an awakening counter on Mox Bismuth. 
-Whenever you tap Mox Bismuth for mana, if there are four or more awakening counters on it, remove all of them and target opponent creates a token that’s a copy of It That Betrays. (It’s an 11/11 colorless Eldrazi creature with “Annihilator 2”, and “Whenever an opponent sacrifices a permanent, put that card onto the battlefield under your control.”)</text>
+Whenever you tap Mox Bismuth for mana, if there are four or more awakening counters on it, target opponent creates a token that’s a copy of It That Betrays. (It’s an 11/11 colorless Eldrazi creature with “Annihilator 2”, and “Whenever an opponent sacrifices a permanent, put that card onto the battlefield under your control.”)</text>
 </card>
 <card>
  <name>The Predator City</name>
@@ -812,7 +812,7 @@ Whenever an opponent casts or copies a spell, that player draws two cards and lo
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Skulk (This creature can’t be blocked by creatures with greater power.)
-At the beginning of each end step, plunder target opponent for X, where X is the number of crimes you’ve committed against that player this turn. (Exile the top Xcards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)</text>
+At the beginning of each end step, plunder target opponent for X, where X is the number of crimes you’ve committed against that player this turn. (Look at the top X cards of that player’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)</text>
 </card>
 <card>
  <name>Draconic Avarice</name>
@@ -844,7 +844,7 @@ Target opponent draws two cards and creates two Treasure tokens.</text>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
-Exchange the contents of your hand and your graveyard. Exile Embrace the Nightmare.</text>
+Exchange the contents of your hand and your graveyard.</text>
 </card>
 <card>
  <name>Scroll of Unending Bureaucracy</name>
@@ -1039,7 +1039,7 @@ Prowl 0 (You may cast this for its prowl cost if you dealt combat damage to a pl
  <cmc>0</cmc>
  <type>Land - Island Swamp </type>
  <tablerow>0</tablerow>
- <text>You may have Secret Lagoon enter tapped. When you do, plunder target opponent for 1. (Exile the topcard of target opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)
+ <text>You may have Secret Lagoon enter tapped. When you do, plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)
 (T: Add U or B.)</text>
 </card>
 <card>
@@ -1171,7 +1171,7 @@ LEVEL 2+
  <type>Enchantment - Class </type>
  <tablerow>1</tablerow>
  <text>(Gain the next level as a sorcery to add its ability.)
-Whenever a creature you control deals combat damage to a player, plunder that player for 1. (Exile the topcard of that player’s library. You may play that card using mana of any color for as long as it remains exiled.)
+Whenever a creature you control deals combat damage to a player, plunder that player for 1. (Look at the top card of that player’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)
 UB: Level 2
 Whenever you plunder, create a Treasure token.
 UB: Level 3
@@ -1186,7 +1186,7 @@ At the beginning of your upkeep, draw a card for each permanent you control but 
  <type>Kindred Artifact - Pirate Equipment </type>
  <tablerow>1</tablerow>
  <text>Equipped creature has haste and is a Pirate in addition to its other types.
-You may exert equipped creature as it attacks. When you do, plunder target opponent for 3. (Exile the top threecards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)
+You may exert equipped creature as it attacks. When you do, plunder target opponent for 3. (Look at the top three cards of target opponent’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)
 Equip 0</text>
 </card>
 <card>
@@ -1198,7 +1198,7 @@ Equip 0</text>
  <type>Creature - Human Ninja Pirate </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>When Neon Freebooter enters, plunder target opponent for 2. (Exile the top twocards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)
+ <text>When Neon Freebooter enters, plunder target opponent for 2. (Look at the top two cards of target opponent’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)
 Whenever you play a card you do not own, the owner of that card reveals their hand and you may choose a nonland card from it. That player discards that card.</text>
 </card>
 <card>
@@ -1258,7 +1258,7 @@ Crew 2</text>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Flying
-When The Real First Mate enters or leaves the battlefield, plunder target opponent for 1. (Exile the topcard of target opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+When The Real First Mate enters or leaves the battlefield, plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)</text>
 </card>
 <card>
  <name>The Doom of Moria</name>
@@ -1568,7 +1568,7 @@ Sacrifice an artifact: Venture into the dungeon.</text>
  <tablerow>2</tablerow>
  <text>Flying, trample
 When Young Phelddagrif enters, venture into the dungeon. (Enter the first room or advance to the next room.)
-Whenever you complete a dungeon, you may pay WU. If you do, you gain X life and draw X cards, where X is the number of dungeons you’ve completed.</text>
+Whenever you complete a dungeon, you gain X life and draw X cards, where X is the number of dungeons you’ve completed.</text>
 </card>
 <card>
  <name>Nightbreeze Avenger</name>
@@ -1631,11 +1631,11 @@ Whenever you complete a dungeon, target opponent loses 1 life for each card in t
  <name>Dead Men Tell No Tales</name>
  <set rarity="uncommon">JVC</set>
  <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Plunder target opponent for 1. (Exile the topcard of target opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)
+ <text>Plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)
 Gravestorm (When you cast this spell, copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</text>
 </card>
 <card>
@@ -1661,8 +1661,10 @@ Legacy 1GW (1GW, Exile this card from your graveyard: Create a token that’s a 
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Devoid (This card has no color.)
-2: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
-When Deconstruction Drone enters or leaves the battlefield, create two 1/1 colorless Eldrazi Scion creature token. They have “Sacrifice this creature: Add C.”</text>
+1: Surveil 1.
+2: Venture into the dungeon.
+3: Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add C.”
+4: Any number of permanents you control become artifacts in addition to their other types until end of turn.</text>
 </card>
 <card>
  <name>Power of Relinquished</name>
@@ -1707,7 +1709,7 @@ At the beginning of your upkeep, if you have no cards in hand, exile the top two
  <tablerow>1</tablerow>
  <text>When Font of the Blood God enters, you get a monarchy counter.
 Whenever an opponent casts a spell or draws a card, create a Blood token. (It’s an artifact with “1, T, Discard a card, Sacrifice this artifact: Draw a card.”)
-Sacrifice an artifact: Add B.</text>
+Sacrifice an artifact: Add one mana of any color.</text>
 </card>
 <card>
  <name>Subsume the Host</name>
@@ -1786,7 +1788,7 @@ Whenever a creature you control deals combat damage, venture into the dungeon.</
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Destroy target nonbasic land.
-Plunder that land’s controller for 1. (Exile the topcard of that land’s controller’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+Plunder that land’s controller for 1. (Look at the top card of that player’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)</text>
 </card>
 <card>
  <name>Night of Horrors</name>
@@ -1816,12 +1818,12 @@ Sacrifice an artifact or creature: Draw a card.</text>
  <name>Walk the Plank</name>
  <set rarity="uncommon">JVC</set>
  <color>B</color>
- <manacost>B</manacost>
- <cmc>1</cmc>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Destroy target creature without flying.
-Skirmish — If an opponent controls a spell, plunder that opponent for 1. (Exile the topcard of that opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+Plunder target opponent for X, where X is the number of Islands you control. (Look at the top X cards of target opponent’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)</text>
 </card>
 <card>
  <name>White Lotus</name>
@@ -1960,7 +1962,7 @@ Tap two untapped artifact you control: Put a +1/+1 counter on Kharadron Overlord
 Creatures you control that are attacking the player with the most monarchy counters get +3/+0.</text>
 </card>
 <card>
- <name>Kezah, the Liar</name>
+ <name>Kezah, the Squandered</name>
  <set rarity="uncommon">JVC</set>
  <color>W</color>
  <manacost>W</manacost>
@@ -1968,7 +1970,8 @@ Creatures you control that are attacking the player with the most monarchy count
  <type>Legendary Artifact Creature - Spirit </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>When Kezah, the Liar enters or leaves the battlefield, create a 1/1 black and red Demon artifact creature token with “When this creature leaves the battlefield, exile the top card of your library. Until the end of your next turn, you may play that card. When you do, each opponent loses 2 life.”</text>
+ <text>Hexproof
+Whenever you sacrifice Kezah, the Squandered as part of the cost of a spell or ability you control, copy that spell or ability three times. You may choose new targets for the copies.</text>
 </card>
 <card>
  <name>Clockwork Tower</name>
@@ -1991,7 +1994,7 @@ Whenever you cast a spell, you may tap or untap up to one target nonland permane
  <type>Legendary Artifact Creature - Horror </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>At the beginning of your upkeep, target opponent searches your library for a card, exiles that card face down, then shuffles. You choose two card names, then turn the exiled card face up. If it is a land or has one of the chosen names, put it into your hand, then search your library for a card with one of the chosen names, reveal it, put it into your hand, and shuffle. Otherwise, put the exiled card into your hand.</text>
+ <text>At the beginning of your upkeep, target opponent searches your library for a card, exiles that card face down, then shuffles. You choose two card names, then turn the exiled card face up. If it is a land or has one of the chosen names, put it into your hand, then search your library for any number of cards with the chosen names, reveal them, put them into your hand, then shuffle. Otherwise, put the exiled card into your hand.</text>
 </card>
 <card>
  <name>Paradox Factory</name>
@@ -2011,11 +2014,11 @@ Whenever Paradox Factory or another artifact you control enters, you may return 
  <manacost>1U</manacost>
  <cmc>2</cmc>
  <type>Artifact Creature - Human Artificer Pirate </type>
- <pt>2/2</pt>
+ <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>Squad 1U 
+ <text>Squad 1
 Islandwalk
-Tap two untapped artifacts and/or Artificers you control: Plunder target opponent for 2. (Exile the top twocards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)</text>
+Tap two untapped artifacts and/or Artificers you control: Plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)</text>
 </card>
 <card>
  <name>Hrokvanar, the Devourer</name>
@@ -2051,7 +2054,7 @@ Whenever you have no cards in hand, shuffle Kaliva, the Liberator into its owner
  <cmc>2</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>If you would discard a land card, instead you may put that land onto the battlefield with a blaze counter on it. For as long as that land has a blaze counter on it, it has “At the beginning of your upkeep, this land deals 1 damage to you.”</text>
+ <text>Whenever a player discards a land card, you may put that card onto the battlefield under your control with a blaze counter on it. For as long as that land has a blaze counter on it, it has “At the beginning of your upkeep, this land deals 1 damage to you.”</text>
 </card>
 <card>
  <name>Teyaxoch, Hero of Orazca</name>
@@ -2120,7 +2123,7 @@ T: Target opponent gains control of target Food you control. Create a Treasure t
  <type>Creature - Cat Advisor Pirate </type>
  <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>Whenever an opponent draws a card except for the first one they draw in each of their draw steps, that player puts a card from their hand on top of their library, then you plunder that opponent for 1. (Exile the topcard of that opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+ <text>Whenever an opponent draws a card except for the first one they draw in each of their draw steps, that player puts a card from their hand on top of their library, then you plunder that opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)</text>
 </card>
 <card>
  <name>Omenquoth</name>
@@ -2257,11 +2260,11 @@ Tap an untapped roguish creature you control: Counter target spell unless its co
  <name>Parley</name>
  <set rarity="rare">JVC</set>
  <color>U</color>
- <manacost>1U</manacost>
- <cmc>2</cmc>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
  <type>Kindred Enchantment - Pirate </type>
  <tablerow>1</tablerow>
- <text>Whenever a player casts a spell from their hand, sacrifice Parley. If you do, each of that player’s opponents may plunder that player for 4. (Exile the top fourcards of that player’s library. You may play those cards using mana of any color for as long as they remain exiled.)</text>
+ <text>Whenever a player casts a spell from their hand, sacrifice Parley. If you do, each of that player’s opponents may plunder that player for 4. (Look at the top four cards of that player’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)</text>
 </card>
 <card>
  <name>Landlubber's Demise</name>
@@ -2272,7 +2275,7 @@ Tap an untapped roguish creature you control: Counter target spell unless its co
  <type>Kindred Sorcery - Pirate </type>
  <tablerow>3</tablerow>
  <text>Each player shuffles their hand and graveyard into their library, then draws seven cards. 
-You may discard any number of land cards. If you do, plunder target opponent for X, where X is twice the number of cards discarded this way. (Exile the top Xcards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)</text>
+You may discard any number of land cards. If you do, plunder target opponent for X, where X is twice the number of cards discarded this way.</text>
 </card>
 <card>
  <name>Rogue's Abyss</name>
@@ -2336,10 +2339,10 @@ Skirmish — If an opponent controls a spell and you control a Swamp, you may pa
  <name>Lai Feng, Empress of Whispers</name>
  <set rarity="mythic">JVC</set>
  <color>B</color>
- <manacost>1B</manacost>
- <cmc>2</cmc>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
  <type>Legendary Creature - Human Advisor </type>
- <pt>2/3</pt>
+ <pt>1/2</pt>
  <tablerow>2</tablerow>
  <text>Opponents reveal each card they draw.
 Reconnaissance — Whenever an opponent reveals one or more cards, for each card revealed —
@@ -2365,10 +2368,10 @@ Counter target spell. Put a lifelink counter on up to one target creature you co
  <manacost>W</manacost>
  <cmc>1</cmc>
  <type>Creature - Dwarf Artificer </type>
- <pt>1/3</pt>
+ <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>When Fastidious Dungeoneer enters, venture into the dungeon. (Enter the first room or advance to the next room.)
-At the beginning of each end step, investigate X times, where X is the number of rooms you’ve entered this turn. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+ <text>When Fastidious Dungeoneer enters, take the initiative.
+At the beginning of each end step, investigate X times, where X is the number of rooms you’ve entered this turn.</text>
 </card>
 <card>
  <name>The Melsalin Gates</name>
@@ -2486,20 +2489,21 @@ T, Sacrifice Explosive Fireflow: Destroy target land. You and that land’s cont
  <type>Creature - Zombie Pirate </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>When Timber Shiverer enters, plunder target opponent for 2. (Exile the top twocards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)
+ <text>When Timber Shiverer enters, plunder target opponent for 2. (Look at the top two cards of target opponent’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)
 Whenever you plunder a player for X, up to one target creature that player controls gets -X/-X until end of turn.</text>
 </card>
 <card>
  <name>Dreadship Raider</name>
- <set rarity="uncommon">JVC</set>
+ <set rarity="rare">JVC</set>
  <color>B</color>
  <manacost>B</manacost>
  <cmc>1</cmc>
- <type>Creature - Human Skeleton Pirate </type>
+ <type>Creature - Human Pirate </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>Menace, undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
-When Dreadship Raider enters, create a Treasure token.</text>
+ <text>If it’s neither day nor night, it becomes night as Dreadship Raider enters.
+Whenever it becomes night, put a +1/+1 counter on Dreadship Raider and plunder target opponent for 1.
+As long as it’s night, Dreadship Raider is a Skeleton in addition to its other types and has menace.</text>
 </card>
 <card>
  <name>Dashing Swashbuckler</name>
@@ -2511,7 +2515,7 @@ When Dreadship Raider enters, create a Treasure token.</text>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Deathtouch
-When Dashing Swashbuckler enters, plunder target opponent for 2. (Exile the top twocards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)</text>
+When Dashing Swashbuckler enters, plunder target opponent for 2. (Look at the top two cards of target opponent’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)</text>
 </card>
 <card>
  <name>Chumseeker</name>
@@ -2523,14 +2527,14 @@ When Dashing Swashbuckler enters, plunder target opponent for 2. (Exile the top 
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
-Whenever Chumseeker deals combat damage to a player, plunder that opponent for 1. (Exile the topcard of that opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+Whenever Chumseeker deals combat damage to a player, plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)</text>
 </card>
 <card>
  <name>Final Desolation</name>
  <set rarity="mythic">JVC</set>
  <color>B</color>
- <manacost>BBBB</manacost>
- <cmc>4</cmc>
+ <manacost>3BBB</manacost>
+ <cmc>6</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Each player discards their hand, then returns all creature cards from their graveyard to the battlefield. All creatures gain haste until end of turn. At the beginning of your next upkeep, each player sacrifices all creatures they control, then draws a card for each creature card in their graveyard.</text>
@@ -2580,7 +2584,7 @@ G, T: Search your library for a land card, put that card into your graveyard, th
  <tablerow>2</tablerow>
  <text>Deathtouch
 Other Pirate creatures you control get +1/+1 and have deathtouch.
-Whenever a creature an opponent owns dies, create a Treasure token and plunder that opponent for 1. (Exile the topcard of that opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+Whenever a creature an opponent owns dies, create a Treasure token and plunder that opponent for 1.</text>
 </card>
 <card>
  <name>Mystic Waygate</name>
@@ -2624,7 +2628,7 @@ As long as you’ve fulfilled a prophecy, Hedron Animus gets +5/+5 and has flyin
  <cmc>1</cmc>
  <type>Legendary Artifact</type>
  <tablerow>1</tablerow>
- <text>When The Loot Dimension enters, draw a card.
+ <text>When The Loot Dimension enters, scry 2, then draw a card.
 Whenever you complete a dungeon, create a Treasure token for each different room you entered in that dungeon.</text>
 </card>
 <card>
@@ -2752,7 +2756,7 @@ Dredge 3</text>
  <pt>5/4</pt>
  <tablerow>2</tablerow>
  <text>Lifelink
-Whenever a creature you control dies, if Avatar of Journeys is on the battlefield or in your graveyard, venture into the dungeon.
+Whenever another permanent you control is put into your graveyard from the battlefield, if Avatar of Journeys is on the battlefield or in your graveyard, venture into the dungeon.
 Whenever you complete a dungeon, you may return Avatar of Journeys from your graveyard to the battlefield.</text>
 </card>
 <card>
@@ -2839,7 +2843,7 @@ Scry 4.</text>
  <type>Instant</type>
  <tablerow>3</tablerow>
  <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
-Create X Blood tokens. (They’re artifacts with “1, T, Discard a card, Sacrifice this artifact: Draw a card.”)
+Scry X, the create X Blood tokens. (To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 Until end of turn, activated abilities of artifacts you control cost 2 less to activate.</text>
 </card>
 <card>
@@ -2920,11 +2924,11 @@ Put any number of land cards from your hand onto the battlefield, then draw that
  <text>Choose one —
 • Gain control of target spell with mana value X or less. You may choose new targets for it.
 • Create X Treasure tokens.
-• Plunder target opponent for X. (Exile the top Xcards of target opponent’s library. You may play those cards using mana of any color for as long as they remain exiled.)</text>
+• Plunder target opponent for X. (Look at the top X cards of target opponent’s library. You may exile them face down. If you do, you may play those cards using mana of any color for as long as they remain exiled.)</text>
 </card>
 <card>
  <name>The Dark One's Prison</name>
- <set rarity="rare">JVC</set>
+ <set rarity="mythic">JVC</set>
  <color></color>
  <manacost>2</manacost>
  <cmc>2</cmc>
@@ -2932,7 +2936,7 @@ Put any number of land cards from your hand onto the battlefield, then draw that
  <tablerow>1</tablerow>
  <text>When The Dark One’s Prison enters, exile your graveyard face down.
 If a card would be put into your graveyard from anywhere, instead exile that card face down.
-T: Mill a card, then manifest a face-down card you own in exile.
+T: Surveil 1, then manifest a face-down card you own in exile.
 When The Dark One’s Prison leaves the battlefield, put any number of face-down cards you own in exile into your graveyard.</text>
 </card>
 <card>
@@ -2968,7 +2972,7 @@ Whenever an artifact card is put into your graveyard from anywhere other than th
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Flying, hexproof
-Sacrifice another artifact: Target creature gains lifelink until end of turn.
+When Technocherub enters, search your library for an artifact card, reveal it, put it into your hand, then shuffle.
 When Technocherub leaves the battlefield, tap up to six target permanents. Put a stun counter on each of those permanents.</text>
 </card>
 <card>
@@ -3000,12 +3004,12 @@ Inspired — When Dreamwood Forager becomes untapped, choose one —
 <card>
  <name>Open The Eyes of the World</name>
  <set rarity="rare">JVC</set>
- <color>URG</color>
- <manacost>GUR</manacost>
- <cmc>3</cmc>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Until end of turn, whenever you cast a spell, you may create a token that’s a copy of target land you control and draw two cards.</text>
+ <text>Until end of turn, whenever you cast a spell, you may create a token that’s a copy of target land you control and exile the top card of your library. You may play that card this turn.</text>
 </card>
 <card>
  <name>Saoirse, Relic Thief</name>
@@ -3115,8 +3119,8 @@ Search your library for a card, put that card into your graveyard, then shuffle.
  <cmc>1</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Until end of turn, you may fulfill unfulfilled prophecies owned by your opponents.
-Scry 1, then draw a card.</text>
+ <text>Until the end of your next turn, you may fulfill unfulfilled prophecies owned by your opponents.
+Scry 2, then draw a card.</text>
 </card>
 <card>
  <name>Birthing Spire</name>
@@ -3126,7 +3130,7 @@ Scry 1, then draw a card.</text>
  <cmc>6</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>T, Sacrifice Birthing Spire: Sacrifice all creatures you control. For each creature sacrificed this way, search your library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put that card onto the battlefield. Then shuffle.</text>
+ <text>T, Sacrifice Birthing Spire: Sacrifice any number of creatures you control. For each creature sacrificed this way, search your library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put that card onto the battlefield. Then shuffle.</text>
 </card>
 <card>
  <name>Winterwind Apprentice</name>
@@ -3211,8 +3215,8 @@ If one or more tokens would be created under your control, those tokens plus tha
  <name>Meletis Artisan</name>
  <set rarity="rare">JVC</set>
  <color>U</color>
- <manacost>5U</manacost>
- <cmc>6</cmc>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
  <type>Creature - Sphinx Artificer </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
@@ -3362,14 +3366,13 @@ Sacrifice an artifact or creature: Target player mills two cards.</text>
 </card>
 <card>
  <name>Frostlance Barrage</name>
- <set rarity="rare">JVC</set>
- <color>RG</color>
- <manacost>RG</manacost>
- <cmc>2</cmc>
+ <set rarity="mythic">JVC</set>
+ <color>URG</color>
+ <manacost>1GUR</manacost>
+ <cmc>4</cmc>
  <type>Snow Instant</type>
  <tablerow>3</tablerow>
- <text>You may put a land card from your hand onto the battlefield.
-Avalanche — Frostlance Barrage deals X damage to each creature you don’t control and each opponent, where X is the number of lands that have entered under your control this turn.</text>
+ <text>Avalanche — Sacrifice any number of lands, draw that many cards, then you may put any number of land cards from your hand onto the battlefield. Frostlance Barrage deals X damage to each opponent and each creature they  control, where X is the number of lands that entered under your control this turn.</text>
 </card>
 <card>
  <name>Devouring Graveminds</name>
@@ -3709,8 +3712,8 @@ Cycling W (W, Discard this card: Draw a card.)</text>
  <cmc>2</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Landfall — Whenever a land you control enters, you may create a 2/2 green Fungus Warrior creature token.
-Fertilize (When this card is put into your graveyard from your hand or library, you may return up to one target land card from your graveyard to the battlefield.)</text>
+ <text>You may play land cards from your graveyard.
+Landfall — Whenever a land you control enters, you may create a 2/2 green Fungus Warrior creature token.</text>
 </card>
 <card>
  <name>Alumaku Caravan</name>
@@ -3761,13 +3764,13 @@ Tap an untapped artifact you control: Put a stun counter on target permanent.</t
  <name>Mul Daya Seed Warden</name>
  <set rarity="rare">JVC</set>
  <color>G</color>
- <manacost>G</manacost>
- <cmc>1</cmc>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
  <type>Creature - Spirit Druid </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>When Mul Daya Seed Warden enters, search your library for any number of land cards, shuffle, then put those lands on top of your library in any order.
-G, T, Sacrifice Mul Daya Seed Warden: Until end of turn, you may play any number of additional land cards.</text>
+ <text>When Mul Daya Seed Warden enters, draw a card.
+Landfall — Whenever a land you control enters, you may return Mul Daya Seed Warden from your graveyard to the battlefield.</text>
 </card>
 <card>
  <name>Kami of Sleepless Nights</name>
@@ -3783,16 +3786,16 @@ Whenever Kami of Sleepless Nights or another card leaves your graveyard, create 
 Escape—Sacrifice two creatures and exile two cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
 </card>
 <card>
- <name>Ziggy the Imp</name>
- <set rarity="uncommon">JVC</set>
+ <name>Ziggy the Odious</name>
+ <set rarity="rare">JVC</set>
  <color>R</color>
  <manacost>2R</manacost>
  <cmc>3</cmc>
  <type>Legendary Creature - Devil </type>
- <pt>1/1</pt>
+ <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>At the beginning of your end step, Ziggy the Imp deals X damage to target player, where X is the number of crimes you’ve committed against that player this turn.
-Unearth B</text>
+ <text>If a spell or ability you control would cause you to commit a crime, you may copy it and you may choose new targets for the copy. The copy cannot trigger this ability.
+At the beginning of your end step, Ziggy the Odious deals X damage to target player, where X is the number of crimes you’ve committed this turn.</text>
 </card>
 <card>
  <name>Otherseeker</name>
@@ -3816,7 +3819,7 @@ Dredge 5 (If you would draw a card, you mill five cards instead. If you do, retu
  <pt>6/6</pt>
  <tablerow>2</tablerow>
  <text>Trample, haste
-When Mat’ergenu, Prophet of Ruin enters, sacrifice six permanents unless you’re part of the hive. (You’re part of the hive when your library has at most half as many cards as it did at the start of the game.)
+When Mat’ergenu, Prophet of Ruin enters, sacrifice it unless you’re part of the hive. (You’re part of the hive when your library has at most half as many cards as it did at the start of the game.)
 Dredge 6 (If you would draw a card, you mill six cards instead. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</text>
 </card>
 <card>
@@ -3852,11 +3855,9 @@ Whenever you expand the frontier, up to one target creature you control explores
  <type>Legendary Creature - Human Wizard  // Instant - Adventure </type>
  <pt>2/2</pt>
  <tablerow>3</tablerow>
- <text>When Skylark Streamsong enters the battlefield, venture into the dungeon X times, where X is the number of creatures you control. (Enter the first room or advance to the next room.)
+ <text>When Skylark Streamsong enters, venture into the dungeon X times, where X is the number of creatures you control. (Enter the first room or advance to the next room.)
 --- 
-Choose one —
-• Destroy target nonartifact creature.
-• Your opponents can’t cast spells this turn.</text>
+Until end of turn, whenever an opponent casts a spell, you may gain 1 life, draw a card and create a 1/1 white Spirit creature token with flying.</text>
 </card>
 <card>
  <name>Munda, the Spider</name>
@@ -3900,8 +3901,8 @@ If Emrakul would be put into a graveyard from anywhere, exile Emrakul with thirt
  <name>Kelsier, Survivor of Hathsin</name>
  <set rarity="mythic">JVC</set>
  <color>BR</color>
- <manacost>B/R</manacost>
- <cmc>1</cmc>
+ <manacost>1B/R</manacost>
+ <cmc>2</cmc>
  <type>Legendary Creature - Human Allomancer </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
@@ -3936,12 +3937,11 @@ At the beginning of enchanted player’s upkeep, you lose X life and create X 1/
  <name>Twisting Sanity</name>
  <set rarity="rare">JVC</set>
  <color>R</color>
- <manacost>R</manacost>
- <cmc>1</cmc>
- <type>Sorcery</type>
+ <manacost>XX1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Buyback B (You may pay an additional B as you cast this spell. If you do, put this card into your hand as it resolves.)
-Target player draws three cards, then discards three cards at random.</text>
+ <text>Discard your hand, then draw that many cards plus one. Repeat this process X times.</text>
 </card>
 <card>
  <name>The Witching Hour</name>
@@ -4113,16 +4113,16 @@ Gravestorm (When you cast this spell, copy it for each permanent put into a grav
 </card>
 <card>
  <name>Whisper, the Nameless Fear</name>
- <set rarity="rare">JVC</set>
+ <set rarity="mythic">JVC</set>
  <color>WB</color>
  <manacost>WB</manacost>
  <cmc>2</cmc>
- <type>Legendary Creature - Nightmare </type>
+ <type>Legendary Enchantment Creature - Nightmare </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>First strike, menace
-Whenever an opponent casts a spell except the first spell they cast each turn, put a +1/+1 counter on Whisper, the Nameless Fear.
-When Whisper, the Nameless Fear dies, target opponent discards cards and loses life equal to its power.</text>
+ <text>Flash
+Bestow 2WB (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Whenever Whisper, the Nameless Fear or enchanted creature deals combat damage to a player, each player sacrifices a nonland permanent or discards a card for each damage dealt.</text>
 </card>
 <card>
  <name>Liege of the Torrent</name>
@@ -4367,7 +4367,7 @@ Target player reveals their hand. You choose a nonland permanent card from it. T
  <cmc>2</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Put up to one target spell or nonland permanent on top of its owner’s library, then plunder that player for 1. (Exile the topcard of that player’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+ <text>Put up to one target spell or nonland permanent on top of its owner’s library, then plunder that player for 1. (Look at the top card of that player’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)</text>
 </card>
 <card>
  <name>Skekra, the Deceiver</name>
@@ -4424,7 +4424,7 @@ Gravestorm (When you cast this spell, copy it for each permanent put into a grav
  <cmc>2</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Landfall — Whenever a land you control enters, plunder target opponent for 1. (Exile the topcard of target opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)
+ <text>Landfall — Whenever a land you control enters, plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)
 Whenever you play a card from exile, create a Treasure token.</text>
 </card>
 <card>
@@ -4541,28 +4541,27 @@ Landfall — Whenever a land you control enters, Trunk Hurler Kami deals 1 damag
 </card>
 <card>
  <name>Vircek Broodwarden</name>
- <set rarity="uncommon">JVC</set>
+ <set rarity="rare">JVC</set>
  <color>G</color>
  <manacost>2G</manacost>
  <cmc>3</cmc>
  <type>Creature - Vircek </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Haste
-Whenever another creature card is put into your graveyard from anywhere other than the battlefield, you may return Vircek Broodwarden from your graveyard to the battlefield.
+ <text>Whenever another permanent card is put into your graveyard from anywhere other than the battlefield, create a 1/1 red Vircek creature token with haste. If this is the third time this ability has triggered this turn, return Vircek Broodwarden from your graveyard to your hand.
 Viral 3 (Whenever this card is put into your graveyard from anywhere, mill three cards.)</text>
 </card>
 <card>
  <name>Vircek Hellion</name>
- <set rarity="uncommon">JVC</set>
+ <set rarity="rare">JVC</set>
  <color>G</color>
- <manacost>2G</manacost>
- <cmc>3</cmc>
- <type>Creature - Vircek </type>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vircek Hellion </type>
  <pt>5/3</pt>
  <tablerow>2</tablerow>
  <text>Trample
-Discard three cards: Return Vircek Hellion from your graveyard to your hand.
+Whenever Vircek Hellion or another creature card is put into your graveyard from anywhere, if Vircek Hellion is on the battlefield or in your graveyard, creatures you control get +1/+1 until end of turn.
 Viral 5 (Whenever this card is put into your graveyard from anywhere, mill five cards.)</text>
 </card>
 <card>
@@ -4605,7 +4604,7 @@ Scavenge—Discard two cards (Discard two cards, Exile this card from your grave
  <cmc>3</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Sacrifice all permanents you control and discard you hand. Search your graveyard and/or library for up to three instant or sorcery cards, reveal them, put them into your hand and shuffle. Add seven mana in any combination of colors.</text>
+ <text>Sacrifice all permanents you control and discard you hand. Search your graveyard and/or library for up to three instant or sorcery cards, reveal them, put them into your hand and shuffle. Add three mana in any combination of colors.</text>
 </card>
 <card>
  <name>Inner Sun</name>
@@ -4948,7 +4947,7 @@ Surge—Pay 3 life. (You may cast this spell for its surge cost if you or a team
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Fateseal 3 (To fateseal 3, look at the top three cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)
-Plunder target opponent for 1. (Exile the topcard of target opponent’s library. You may play that card using mana of any color for as long as it remains exiled.)</text>
+Plunder target opponent for 1. (Look at the top card of target opponent’s library. You may exile it face down. If you do, you may play that card using mana of any color for as long as it remains exiled.)</text>
 </card>
 <card>
  <name>Os'Uman, Keeper of the Keys</name>
@@ -5005,7 +5004,7 @@ At the beginning of your upkeep, you may pay 2 life. If you do, return Vircek Pl
  <color>WR</color>
  <manacost>XXRW</manacost>
  <cmc>2</cmc>
- <type>Sorcery</type>
+ <type>Instant</type>
  <tablerow>3</tablerow>
  <text>Until end of turn, whenever a card leaves your graveyard, create a Treasure token.
 Return up to X target permanent cards from your graveyard to the battlefield.</text>
@@ -5041,9 +5040,9 @@ When Kyurem White enters or leaves the battlefield, you may search your library 
  <type>Legendary Artifact - Vehicle </type>
  <tablerow>1</tablerow>
  <text>Islandwalk
-Whenever The Drowned Queen attacks, surveil X, where X is the number of creatures crewing it.
-Divination — Whenever you look at cards from the top of a library, you may plunder target opponent for that many cards.
-Crew 1</text>
+Whenever The Drowned Queen attacks, surveil X, where X is the total power of creatures crewing it.
+Divination — At the beginning of each end step, plunder target opponent for X, where X is the number of cards you’ve looked at from the top of a library this turn.
+Crew 3</text>
 </card>
 <card>
  <name>Burning Sunset Kirin</name>
@@ -5225,9 +5224,8 @@ Whenever you discard a card, you may pay 1 life. If you do, exile that card from
  <cmc>1</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Investigate (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
-Draw a card.
-Flashback W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+ <text>Scry 2, then draw a card.
+If you’ve fulfilled a prophecy this turn, you may return Consult the Archives to your hand as it resolves.</text>
 </card>
 <card>
  <name>Waterfall Palace</name>
@@ -5899,7 +5897,8 @@ Whenever you cast your third instant or sorcery spell this turn, you may create 
  <cmc>2</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Return target creature you control to its owner’s hand. If you do, you may discard a creature card. If you do, you may return a creature card from your graveyard to the battlefield. </text>
+ <text>Return target creature you control to its owner’s hand. If you do, you may discard a creature card. If you do, you may return a creature card from your graveyard to the battlefield.
+Flashback W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 </card>
 <card>
  <name>Ruinous Siphon</name>
@@ -6004,7 +6003,7 @@ T, Pay 1 life, Sacrifice Blood Shaman Temple: Search your library for a Forest o
  <pt>1/2</pt>
  <tablerow>2</tablerow>
  <text>When Alchemist’s Familiar enters, create a Blood, Clue, Food, or Treasure token.
-Sacrifice a Blood, Clue, Food, and Treasure: Target player sacrifices three creatures and discards three cards.</text>
+3, T, Sacrifice a Blood, Clue, Food, and Treasure: Target player sacrifices three creatures and discards three cards.</text>
 </card>
 <card>
  <name>Sudden Rage</name>

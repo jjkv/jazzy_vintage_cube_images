@@ -1,0 +1,3834 @@
+[CustomCards]
+[
+    {
+        "name": "A Dream of Spring",
+        "mana_cost": "{1}{G}",
+        "type": "Snow Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/A Dream of Spring.png"
+    },
+    {
+        "name": "A God from the Ashes",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/A God from the Ashes.png"
+    },
+    {
+        "name": "A New Hand Touches the Beacon",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/A New Hand Touches the Beacon.png"
+    },
+    {
+        "name": "A Single Wish Will Be Granted",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/A Single Wish Will Be Granted.png"
+    },
+    {
+        "name": "Abzan Scorpion Witch",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Abzan Scorpion Witch.png"
+    },
+    {
+        "name": "Accursed Dramargu",
+        "mana_cost": "{1}{B}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Accursed Dramargu.png"
+    },
+    {
+        "name": "Acolyte of Yawgmoth",
+        "mana_cost": "{2}{B}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Acolyte of Yawgmoth.png"
+    },
+    {
+        "name": "Aeomar, Spiritfarer",
+        "mana_cost": "{2}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Aeomar Spiritfarer.png"
+    },
+    {
+        "name": "Affluent Patron",
+        "mana_cost": "{2}{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Affluent Patron.png"
+    },
+    {
+        "name": "Alchemist's Familiar",
+        "mana_cost": "{1}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Alchemists Familiar.png"
+    },
+    {
+        "name": "Allomatic Battlemage",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Allomatic Battlemage.png"
+    },
+    {
+        "name": "Alter Fate",
+        "mana_cost": "{U}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Alter Fate.png"
+    },
+    {
+        "name": "Alumaku Caravan",
+        "mana_cost": "{1}{G}",
+        "type": "Snow Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Alumaku Caravan.png"
+    },
+    {
+        "name": "Ambitious Reconstructor",
+        "mana_cost": "{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ambitious Reconstructor.png"
+    },
+    {
+        "name": "Ancestral Favor",
+        "mana_cost": "{1}{G}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ancestral Favor.png"
+    },
+    {
+        "name": "Ancestral Gambit",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ancestral Gambit.png"
+    },
+    {
+        "name": "Arcane Overload",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Arcane Overload.png"
+    },
+    {
+        "name": "Archdruid Vereyana",
+        "mana_cost": "{1}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Archdruid Vereyana.png"
+    },
+    {
+        "name": "Architect of Discord",
+        "mana_cost": "{4}",
+        "type": "Creature",
+        "back": {
+            "name": "Awareness Distortion",
+            "type": "Instant",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Architect of Discord_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Architect of Discord_a.png"
+    },
+    {
+        "name": "Arphoros, the Fallen One",
+        "mana_cost": "{4}{R}{R}",
+        "type": "Legendary Enchantment Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Arphoros the Fallen One.png"
+    },
+    {
+        "name": "Artery Drinker",
+        "mana_cost": "{2}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Artery Drinker.png"
+    },
+    {
+        "name": "Ascendant Ascetic",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ascendant Ascetic.png"
+    },
+    {
+        "name": "Ashengroth, Land of Nightmares",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ashengroth Land of Nightmares.png"
+    },
+    {
+        "name": "Ashvicar's Tome of Illusion",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ashvicars Tome of Illusion.png"
+    },
+    {
+        "name": "Astral Archer",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Astral Archer.png"
+    },
+    {
+        "name": "Attachment",
+        "mana_cost": "{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Attachment.png"
+    },
+    {
+        "name": "Avatar of Journeys",
+        "mana_cost": "{W}{B}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Avatar of Journeys.png"
+    },
+    {
+        "name": "Azure Clepsydra",
+        "mana_cost": "{10}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Azure Clepsydra.png"
+    },
+    {
+        "name": "Balan Voz, Upstart Conquerer",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Balan Voz Upstart Conquerer.png"
+    },
+    {
+        "name": "Bankai, City of Dark Beasts",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Bankai City of Dark Beasts.png"
+    },
+    {
+        "name": "Bazaar Racketeer",
+        "mana_cost": "{1}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Bazaar Racketeer.png"
+    },
+    {
+        "name": "Beckoned to Assimilate",
+        "mana_cost": "{1}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Beckoned to Assimilate.png"
+    },
+    {
+        "name": "Bellerophon",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Bellerophon.png"
+    },
+    {
+        "name": "Beloved Scout",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Beloved Scout.png"
+    },
+    {
+        "name": "Belugma, Queen of the Marsh",
+        "mana_cost": "",
+        "type": "Legendary Creature Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Belugma Queen of the Marsh.png"
+    },
+    {
+        "name": "Bhaskara, the Hierophant",
+        "mana_cost": "{U}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Bhaskara the Hierophant.png"
+    },
+    {
+        "name": "Biolight Presence",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Biolight Presence.png"
+    },
+    {
+        "name": "Birthing Spire",
+        "mana_cost": "{4}{G/P}{G/P}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Birthing Spire.png"
+    },
+    {
+        "name": "Black Book of Hermaeus Mora",
+        "mana_cost": "{B}{G}{U}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Black Book of Hermaeus Mora.png"
+    },
+    {
+        "name": "Black Market Fence",
+        "mana_cost": "{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Black Market Fence.png"
+    },
+    {
+        "name": "Black Sacrement",
+        "mana_cost": "{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Black Sacrement.png"
+    },
+    {
+        "name": "Blood Crystal Cavern",
+        "mana_cost": "",
+        "type": "Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Blood Crystal Cavern.png"
+    },
+    {
+        "name": "Blood Shaman Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Blood Shaman Temple.png"
+    },
+    {
+        "name": "Bloodmoon Shinobi",
+        "mana_cost": "{1}{B}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Bloodmoon Shinobi.png"
+    },
+    {
+        "name": "Blossom, the Impending Fang",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Snow Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Blossom the Impending Fang.png"
+    },
+    {
+        "name": "Bone Valley Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Bone Valley Temple.png"
+    },
+    {
+        "name": "Book of Silenced Screams",
+        "mana_cost": "{2}{U}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Book of Silenced Screams.png"
+    },
+    {
+        "name": "Borderland Druid",
+        "mana_cost": "{2}{G}",
+        "type": "Snow Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Borderland Druid.png"
+    },
+    {
+        "name": "Boss Monster Hydra",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Boss Monster Hydra.png"
+    },
+    {
+        "name": "Bottle O'Rum",
+        "mana_cost": "{1}",
+        "type": "Kindred Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Bottle ORum.png"
+    },
+    {
+        "name": "Brass Marauder",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Brass Marauder.png"
+    },
+    {
+        "name": "Burning Sunset Kirin",
+        "mana_cost": "{5}{R}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Burning Sunset Kirin.png"
+    },
+    {
+        "name": "Cackling Amethyst",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Cackling Amethyst.png"
+    },
+    {
+        "name": "Caen Aiqua, the Forest of Tales",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Caen Aiqua the Forest of Tales.png"
+    },
+    {
+        "name": "Calculated Clairvoyance",
+        "mana_cost": "{X}{Y}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Calculated Clairvoyance.png"
+    },
+    {
+        "name": "Call the Deep Ones",
+        "mana_cost": "{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Call the Deep Ones.png"
+    },
+    {
+        "name": "Canon Hunter",
+        "mana_cost": "{2}{W/P}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Canon Hunter.png"
+    },
+    {
+        "name": "Captain Bane, Ghost of Dragaz",
+        "mana_cost": "{1}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Captain Bane Ghost of Dragaz.png"
+    },
+    {
+        "name": "Captain Greylock, the Undertow",
+        "mana_cost": "{1}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Captain Greylock the Undertow.png"
+    },
+    {
+        "name": "Captain Saaqa Shankaron",
+        "mana_cost": "{1}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Captain Saaqa Shankaron.png"
+    },
+    {
+        "name": "Captain's Command",
+        "mana_cost": "{X}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Captains Command.png"
+    },
+    {
+        "name": "Carissa Brierborn",
+        "mana_cost": "{1}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Carissa Brierborn.png"
+    },
+    {
+        "name": "Cascading Creation",
+        "mana_cost": "{G}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Cascading Creation.png"
+    },
+    {
+        "name": "Casira of the Ancient Path",
+        "mana_cost": "{1}{G}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Casira of the Ancient Path.png"
+    },
+    {
+        "name": "Catpurse Chicanery",
+        "mana_cost": "{1}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Catpurse Chicanery.png"
+    },
+    {
+        "name": "Cemetery Waltz",
+        "mana_cost": "{B}{G}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Cemetery Waltz.png"
+    },
+    {
+        "name": "Chaos Consumer",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Chaos Consumer.png"
+    },
+    {
+        "name": "Chaos Nexus",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Chaos Nexus.png"
+    },
+    {
+        "name": "Charge the Void",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Charge the Void.png"
+    },
+    {
+        "name": "Chart the Mind",
+        "mana_cost": "{U}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Chart the Mind.png"
+    },
+    {
+        "name": "Chromatic Snare",
+        "mana_cost": "{1}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Chromatic Snare.png"
+    },
+    {
+        "name": "Chrome Cathedral",
+        "mana_cost": "",
+        "type": "Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Chrome Cathedral.png"
+    },
+    {
+        "name": "Chumseeker",
+        "mana_cost": "{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Chumseeker.png"
+    },
+    {
+        "name": "City of Bells",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/City of Bells.png"
+    },
+    {
+        "name": "Clockwork Tower",
+        "mana_cost": "{3}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Clockwork Tower.png"
+    },
+    {
+        "name": "Code of the Hegemony",
+        "mana_cost": "{1}{W}{U}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Code of the Hegemony.png"
+    },
+    {
+        "name": "Collapse of the Kingdom",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Collapse of the Kingdom.png"
+    },
+    {
+        "name": "Colossal Guardian",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Colossal Guardian.png"
+    },
+    {
+        "name": "Conspicuous Saboteur",
+        "mana_cost": "{1}{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Conspicuous Saboteur.png"
+    },
+    {
+        "name": "Consult the Archives",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Consult the Archives.png"
+    },
+    {
+        "name": "Cosmic Conscription",
+        "mana_cost": "{1}{B}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Cosmic Conscription.png"
+    },
+    {
+        "name": "Court of the Yellow King",
+        "mana_cost": "{1}{U}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Court of the Yellow King.png"
+    },
+    {
+        "name": "Covert Demolition",
+        "mana_cost": "{X}{X}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Covert Demolition.png"
+    },
+    {
+        "name": "Cracked Mirror Cultist",
+        "mana_cost": "{2}",
+        "type": "Snow Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Cracked Mirror Cultist.png"
+    },
+    {
+        "name": "Crashing Herald",
+        "mana_cost": "{2}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Crashing Herald.png"
+    },
+    {
+        "name": "Crown of the Conqueror",
+        "mana_cost": "{B}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Crown of the Conqueror.png"
+    },
+    {
+        "name": "Crypt Crack Key",
+        "mana_cost": "{3}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Crypt Crack Key.png"
+    },
+    {
+        "name": "Curious Dreamship",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Curious Dreamship.png"
+    },
+    {
+        "name": "Current Conduit",
+        "mana_cost": "{W}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Current Conduit.png"
+    },
+    {
+        "name": "Curse of Generosity",
+        "mana_cost": "{2}{W}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Curse of Generosity.png"
+    },
+    {
+        "name": "Curse of Lightning",
+        "mana_cost": "{2}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Curse of Lightning.png"
+    },
+    {
+        "name": "Curse of the Sovereign",
+        "mana_cost": "{W}{B}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Curse of the Sovereign.png"
+    },
+    {
+        "name": "Cvareh, Visionary Artificer",
+        "mana_cost": "{W}{U}",
+        "type": "Legendary Planeswalker",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Cvareh Visionary Artificer.png"
+    },
+    {
+        "name": "Dam Key",
+        "mana_cost": "{R}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dam Key.png"
+    },
+    {
+        "name": "Damaged Stargate",
+        "mana_cost": "",
+        "type": "Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Damaged Stargate.png"
+    },
+    {
+        "name": "Daratea, Guardian of Ysanai",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Daratea Guardian of Ysanai.png"
+    },
+    {
+        "name": "Daratrine, Questing Flame",
+        "mana_cost": "{1}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Daratrine Questing Flame.png"
+    },
+    {
+        "name": "Dark Cosmic Jhin",
+        "mana_cost": "{4}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dark Cosmic Jhin.png"
+    },
+    {
+        "name": "Dashing Swashbuckler",
+        "mana_cost": "{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dashing Swashbuckler.png"
+    },
+    {
+        "name": "Dawn of Growth",
+        "mana_cost": "{G}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dawn of Growth.png"
+    },
+    {
+        "name": "Dead Men Tell No Tales",
+        "mana_cost": "{2}{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dead Men Tell No Tales.png"
+    },
+    {
+        "name": "Deconstruction Drone",
+        "mana_cost": "{1}{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Deconstruction Drone.png"
+    },
+    {
+        "name": "Deepwood Ritualist",
+        "mana_cost": "{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Deepwood Ritualist.png"
+    },
+    {
+        "name": "Demanifest",
+        "mana_cost": "{U}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Demanifest.png"
+    },
+    {
+        "name": "Deranged Witness",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Deranged Witness.png"
+    },
+    {
+        "name": "Despair Ex Machina",
+        "mana_cost": "{2}{U}{U}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Despair Ex Machina.png"
+    },
+    {
+        "name": "Desperate Contract",
+        "mana_cost": "{1}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Desperate Contract.png"
+    },
+    {
+        "name": "Destria, Nova Summoner",
+        "mana_cost": "{2}{R}",
+        "type": "Legendary Planeswalker",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Destria Nova Summoner.png"
+    },
+    {
+        "name": "Detritus Sovereign",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Detritus Sovereign.png"
+    },
+    {
+        "name": "Devouring Graveminds",
+        "mana_cost": "{2}{R}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Devouring Graveminds.png"
+    },
+    {
+        "name": "Dig of the Century",
+        "mana_cost": "{X}{X}{R}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dig of the Century.png"
+    },
+    {
+        "name": "Dissection Ritual",
+        "mana_cost": "{X}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dissection Ritual.png"
+    },
+    {
+        "name": "Dissonant Inquisitor",
+        "mana_cost": "{3}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dissonant Inquisitor.png"
+    },
+    {
+        "name": "Doomwheel",
+        "mana_cost": "{4}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Doomwheel.png"
+    },
+    {
+        "name": "Dorangrin of the Soulforge",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dorangrin of the Soulforge.png"
+    },
+    {
+        "name": "Draconic Avarice",
+        "mana_cost": "{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Draconic Avarice.png"
+    },
+    {
+        "name": "Dreadship Raider",
+        "mana_cost": "{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dreadship Raider.png"
+    },
+    {
+        "name": "Dream Binder",
+        "mana_cost": "{4}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dream Binder.png"
+    },
+    {
+        "name": "Dreamwood Forager",
+        "mana_cost": "{1}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dreamwood Forager.png"
+    },
+    {
+        "name": "Dubious Recompense",
+        "mana_cost": "{U}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Dubious Recompense.png"
+    },
+    {
+        "name": "Eawen, Battle Librarian",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Eawen Battle Librarian.png"
+    },
+    {
+        "name": "Echraverra's Vault",
+        "mana_cost": "{1}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Echraverras Vault.png"
+    },
+    {
+        "name": "Eikthyrnir, the Blood Harvest",
+        "mana_cost": "{B}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Eikthyrnir the Blood Harvest.png"
+    },
+    {
+        "name": "Eldrazi Spirit Leech",
+        "mana_cost": "{3}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Eldrazi Spirit Leech.png"
+    },
+    {
+        "name": "Eldritch Flame",
+        "mana_cost": "{1}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Eldritch Flame.png"
+    },
+    {
+        "name": "Elesh Norn's Subjugation",
+        "mana_cost": "{W/P}{W/P}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Elesh Norns Subjugation.png"
+    },
+    {
+        "name": "Embrace the Nightmare",
+        "mana_cost": "{4}{B}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Embrace the Nightmare.png"
+    },
+    {
+        "name": "Emrakul, Who Shattered the Moon",
+        "mana_cost": "",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Emrakul Who Shattered the Moon.png"
+    },
+    {
+        "name": "Enki, the Regaler",
+        "mana_cost": "{3}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Enki the Regaler.png"
+    },
+    {
+        "name": "Enlightened Toad Shrine",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Enlightened Toad Shrine.png"
+    },
+    {
+        "name": "Enscribe the Future",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Enscribe the Future.png"
+    },
+    {
+        "name": "Epic Adventure",
+        "mana_cost": "{R}{G}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Epic Adventure.png"
+    },
+    {
+        "name": "Eruption Firebird",
+        "mana_cost": "{2}{R}{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Eruption Firebird.png"
+    },
+    {
+        "name": "Essence Ice",
+        "mana_cost": "{0}",
+        "type": "Snow Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Essence Ice.png"
+    },
+    {
+        "name": "Eve of the Promised End",
+        "mana_cost": "{R}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Eve of the Promised End.png"
+    },
+    {
+        "name": "Execrable Urn",
+        "mana_cost": "{1}{W}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Execrable Urn.png"
+    },
+    {
+        "name": "Expand the Hoard",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Expand the Hoard.png"
+    },
+    {
+        "name": "Experience Infinity",
+        "mana_cost": "{U}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Experience Infinity.png"
+    },
+    {
+        "name": "Explode the Singularity",
+        "mana_cost": "{2}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Explode the Singularity.png"
+    },
+    {
+        "name": "Explosive Fireflow",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Explosive Fireflow.png"
+    },
+    {
+        "name": "Expunge the Unholy",
+        "mana_cost": "{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Expunge the Unholy.png"
+    },
+    {
+        "name": "Face Scraper",
+        "mana_cost": "{1}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Face Scraper.png"
+    },
+    {
+        "name": "Faerie Parry",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Faerie Parry.png"
+    },
+    {
+        "name": "Faile, Caretaker of Heirlooms",
+        "mana_cost": "{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Faile Caretaker of Heirlooms.png"
+    },
+    {
+        "name": "Fall of the Empire",
+        "mana_cost": "{W}{B}",
+        "type": "Enchantment",
+        "back": {
+            "name": "Runivar, the Despot",
+            "type": "Legendary Creature",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fall of the Empire_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fall of the Empire_a.png"
+    },
+    {
+        "name": "Fallen God",
+        "mana_cost": "{2}{W}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fallen God.png"
+    },
+    {
+        "name": "Fastidious Dungeoneer",
+        "mana_cost": "{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fastidious Dungeoneer.png"
+    },
+    {
+        "name": "Fathom Corsair",
+        "mana_cost": "{1}{U}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fathom Corsair.png"
+    },
+    {
+        "name": "Fellbrew Hollow",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fellbrew Hollow.png"
+    },
+    {
+        "name": "Feral Fae",
+        "mana_cost": "{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Feral Fae.png"
+    },
+    {
+        "name": "Fiddlestick Slasher",
+        "mana_cost": "{3}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fiddlestick Slasher.png"
+    },
+    {
+        "name": "Final Desolation",
+        "mana_cost": "{3}{B}{B}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Final Desolation.png"
+    },
+    {
+        "name": "Finding of the Pirate King's Throne",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Finding of the Pirate Kings Throne.png"
+    },
+    {
+        "name": "Firestorm Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Firestorm Temple.png"
+    },
+    {
+        "name": "Fissure the Blood Glacier",
+        "mana_cost": "{R}",
+        "type": "Snow Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fissure the Blood Glacier.png"
+    },
+    {
+        "name": "Flight of Revelations",
+        "mana_cost": "{B}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Flight of Revelations.png"
+    },
+    {
+        "name": "Flight of the Dusk Hallows",
+        "mana_cost": "{4}{R}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Flight of the Dusk Hallows.png"
+    },
+    {
+        "name": "Font of the Blood God",
+        "mana_cost": "{1}{B}{B}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Font of the Blood God.png"
+    },
+    {
+        "name": "Footpath Dreamscape",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Footpath Dreamscape.png"
+    },
+    {
+        "name": "Forerunner of the Machine",
+        "mana_cost": "{2}{R}{W}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Forerunner of the Machine.png"
+    },
+    {
+        "name": "Forgotten Crypt",
+        "mana_cost": "{7}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Forgotten Crypt.png"
+    },
+    {
+        "name": "Foundry Hedron",
+        "mana_cost": "",
+        "type": "Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Foundry Hedron.png"
+    },
+    {
+        "name": "From Earth To Sky",
+        "mana_cost": "",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/From Earth To Sky.png"
+    },
+    {
+        "name": "Frostblossom Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Frostblossom Temple.png"
+    },
+    {
+        "name": "Frostlance Barrage",
+        "mana_cost": "{1}{G}{U}{R}",
+        "type": "Snow Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Frostlance Barrage.png"
+    },
+    {
+        "name": "Frozen Chain Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Frozen Chain Temple.png"
+    },
+    {
+        "name": "Fun Gus, Rot Farmer",
+        "mana_cost": "{2}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Fun Gus Rot Farmer.png"
+    },
+    {
+        "name": "Furious Tutor",
+        "mana_cost": "{B}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Furious Tutor.png"
+    },
+    {
+        "name": "Fy'Alari, the Guiding",
+        "mana_cost": "",
+        "type": "Legendary Creature Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/FyAlari the Guiding.png"
+    },
+    {
+        "name": "Galactic Palm",
+        "mana_cost": "{X}{U}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Galactic Palm.png"
+    },
+    {
+        "name": "Geist Shark Raid",
+        "mana_cost": "{1}{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Geist Shark Raid.png"
+    },
+    {
+        "name": "Ghirapur Renagade",
+        "mana_cost": "{2}{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ghirapur Renagade.png"
+    },
+    {
+        "name": "Ghost Shadow Lotus",
+        "mana_cost": "{0}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ghost Shadow Lotus.png"
+    },
+    {
+        "name": "Glare of the Morotum Eye",
+        "mana_cost": "{1}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Glare of the Morotum Eye.png"
+    },
+    {
+        "name": "Glass Emanation",
+        "mana_cost": "{0}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Glass Emanation.png"
+    },
+    {
+        "name": "Gloomcap Dreamscape",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Gloomcap Dreamscape.png"
+    },
+    {
+        "name": "Gloomwing Pilgrim",
+        "mana_cost": "{1}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Gloomwing Pilgrim.png"
+    },
+    {
+        "name": "Gluttonous Ghouls",
+        "mana_cost": "{2}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Gluttonous Ghouls.png"
+    },
+    {
+        "name": "Goblet of Victory",
+        "mana_cost": "{1}{U}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Goblet of Victory.png"
+    },
+    {
+        "name": "Goblin Aerialist",
+        "mana_cost": "{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Goblin Aerialist.png"
+    },
+    {
+        "name": "Golden Mindscrambler",
+        "mana_cost": "{2}{R}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Golden Mindscrambler.png"
+    },
+    {
+        "name": "Golden Planetarium",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Golden Planetarium.png"
+    },
+    {
+        "name": "Golgari Plaguecrafter",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Golgari Plaguecrafter.png"
+    },
+    {
+        "name": "Gouda, Brave Companion",
+        "mana_cost": "{W}",
+        "type": "Legendary Creature",
+        "back": {
+            "name": "Gouda, Hardy Sort",
+            "type": "Legendary Creature",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Gouda Brave Companion_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Gouda Brave Companion_a.png"
+    },
+    {
+        "name": "Grafted Spy Network",
+        "mana_cost": "{U/P}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Grafted Spy Network.png"
+    },
+    {
+        "name": "Granny Lovett",
+        "mana_cost": "{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Granny Lovett.png"
+    },
+    {
+        "name": "Graveshot",
+        "mana_cost": "{1}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Graveshot.png"
+    },
+    {
+        "name": "Guardfish Island",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Guardfish Island.png"
+    },
+    {
+        "name": "Gubaraka, Quiet Awakener",
+        "mana_cost": "{1}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Gubaraka Quiet Awakener.png"
+    },
+    {
+        "name": "Guiding Tree",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Guiding Tree.png"
+    },
+    {
+        "name": "Gurren Lagann",
+        "mana_cost": "{R}{W}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Gurren Lagann.png"
+    },
+    {
+        "name": "Hadestown",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Hadestown.png"
+    },
+    {
+        "name": "Halimari Diversion",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Halimari Diversion.png"
+    },
+    {
+        "name": "Harbinger, Playful Enigma",
+        "mana_cost": "{1}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Harbinger Playful Enigma.png"
+    },
+    {
+        "name": "Harmony's End",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Harmonys End.png"
+    },
+    {
+        "name": "Headless Headtaker",
+        "mana_cost": "{1}{W}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Headless Headtaker.png"
+    },
+    {
+        "name": "Hedron Animus",
+        "mana_cost": "{1}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Hedron Animus.png"
+    },
+    {
+        "name": "Heir of the God-Pharaoh",
+        "mana_cost": "{3}{W}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Heir of the God-Pharaoh.png"
+    },
+    {
+        "name": "Hell of a Time",
+        "mana_cost": "{R}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Hell of a Time.png"
+    },
+    {
+        "name": "Hermit Hideaway",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Hermit Hideaway.png"
+    },
+    {
+        "name": "Holder of the Scales",
+        "mana_cost": "{1}{W}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Holder of the Scales.png"
+    },
+    {
+        "name": "Hornswoggle",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Hornswoggle.png"
+    },
+    {
+        "name": "Hrokvanar, the Devourer",
+        "mana_cost": "{R}{R}{R}{R}",
+        "type": "Legendary Snow Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Hrokvanar the Devourer.png"
+    },
+    {
+        "name": "Humble Beginning",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Humble Beginning.png"
+    },
+    {
+        "name": "Hydrosphere",
+        "mana_cost": "{1}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Hydrosphere.png"
+    },
+    {
+        "name": "Icehammer Keep",
+        "mana_cost": "",
+        "type": "Legendary Snow Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Icehammer Keep.png"
+    },
+    {
+        "name": "Ignite the Ichor",
+        "mana_cost": "{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ignite the Ichor.png"
+    },
+    {
+        "name": "Industrial Pantheon",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Industrial Pantheon.png"
+    },
+    {
+        "name": "Infernal Council",
+        "mana_cost": "{1}{B}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Infernal Council.png"
+    },
+    {
+        "name": "Infinite Starfield Guru",
+        "mana_cost": "{1}{R}",
+        "type": "Enchantment Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Infinite Starfield Guru.png"
+    },
+    {
+        "name": "Inner Sun",
+        "mana_cost": "{1}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Inner Sun.png"
+    },
+    {
+        "name": "Insatiable Hivequeen",
+        "mana_cost": "{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Insatiable Hivequeen.png"
+    },
+    {
+        "name": "Inspiring Gleeman",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Inspiring Gleeman.png"
+    },
+    {
+        "name": "Intrusion of Oblivion",
+        "mana_cost": "{3}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Intrusion of Oblivion.png"
+    },
+    {
+        "name": "It's Time to DDDD-Duel",
+        "mana_cost": "{U}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Its Time to DDDD-Duel.png"
+    },
+    {
+        "name": "Jace's Simulacrum",
+        "mana_cost": "{4}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jaces Simulacrum.png"
+    },
+    {
+        "name": "Jade River Hunter",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jade River Hunter.png"
+    },
+    {
+        "name": "Jan Sul, Mirran Guardian",
+        "mana_cost": "{4}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jan Sul Mirran Guardian.png"
+    },
+    {
+        "name": "Jargrumir Chainbuckle",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jargrumir Chainbuckle.png"
+    },
+    {
+        "name": "Jebediah, First to Till",
+        "mana_cost": "{1}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jebediah First to Till.png"
+    },
+    {
+        "name": "Jin Huo, the Swift Sunrise",
+        "mana_cost": "{U}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jin Huo the Swift Sunrise.png"
+    },
+    {
+        "name": "Jin-Gitaxias' Manipulation",
+        "mana_cost": "{U/P}{U/P}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jin-Gitaxias Manipulation.png"
+    },
+    {
+        "name": "Joqi, Dreamspace Guide",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Joqi Dreamspace Guide.png"
+    },
+    {
+        "name": "Jotun Dreadlord",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Jotun Dreadlord.png"
+    },
+    {
+        "name": "Journey Through Oblivion",
+        "mana_cost": "{1}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Journey Through Oblivion.png"
+    },
+    {
+        "name": "Kaliva, the Liberator",
+        "mana_cost": "{R}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kaliva the Liberator.png"
+    },
+    {
+        "name": "Kami of Sleepless Nights",
+        "mana_cost": "{B}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kami of Sleepless Nights.png"
+    },
+    {
+        "name": "Kelsier, Survivor of Hathsin",
+        "mana_cost": "{1}{B/R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kelsier Survivor of Hathsin.png"
+    },
+    {
+        "name": "Kezah, the Squandered",
+        "mana_cost": "{W}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kezah the Squandered.png"
+    },
+    {
+        "name": "Kharadron Overlord",
+        "mana_cost": "{2}{R}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kharadron Overlord.png"
+    },
+    {
+        "name": "Kindlebone Soulsnatcher",
+        "mana_cost": "{4}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kindlebone Soulsnatcher.png"
+    },
+    {
+        "name": "Kinkiba, Who Coils The Leash",
+        "mana_cost": "{2}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kinkiba Who Coils The Leash.png"
+    },
+    {
+        "name": "Koaru, Poet of Thunder",
+        "mana_cost": "{1}{W}{W}",
+        "type": "Legendary Planeswalker",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Koaru Poet of Thunder.png"
+    },
+    {
+        "name": "Krosan Dragon",
+        "mana_cost": "{2}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Krosan Dragon.png"
+    },
+    {
+        "name": "Kyurem White",
+        "mana_cost": "{4}{U}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kyurem White.png"
+    },
+    {
+        "name": "Lai Feng, Empress of Whispers",
+        "mana_cost": "{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lai Feng Empress of Whispers.png"
+    },
+    {
+        "name": "Land Ho",
+        "mana_cost": "{1}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Land Ho.png"
+    },
+    {
+        "name": "Landlubber's Demise",
+        "mana_cost": "{2}{U}",
+        "type": "Kindred Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Landlubbers Demise.png"
+    },
+    {
+        "name": "Lich Priest Archfiend",
+        "mana_cost": "{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lich Priest Archfiend.png"
+    },
+    {
+        "name": "Lichenous Oracle",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lichenous Oracle.png"
+    },
+    {
+        "name": "Liege of the Torrent",
+        "mana_cost": "{1}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Liege of the Torrent.png"
+    },
+    {
+        "name": "Lightning Conduit",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lightning Conduit.png"
+    },
+    {
+        "name": "Lightning Infuser",
+        "mana_cost": "{1}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lightning Infuser.png"
+    },
+    {
+        "name": "Live Long",
+        "mana_cost": "{2}{G}",
+        "type": "Sorcery // Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Live Long.png"
+    },
+    {
+        "name": "Loral's Sanctuary",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "back": {
+            "name": "Loral's Final Battle",
+            "type": "Legendary Enchantment",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lorals Sanctuary_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lorals Sanctuary_a.png"
+    },
+    {
+        "name": "Lost Discus",
+        "mana_cost": "{2}{W}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lost Discus.png"
+    },
+    {
+        "name": "Lunatic Visitation",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Lunatic Visitation.png"
+    },
+    {
+        "name": "Maescia, the Flame of Autumn",
+        "mana_cost": "{2}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Maescia the Flame of Autumn.png"
+    },
+    {
+        "name": "Magus Automata",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Magus Automata.png"
+    },
+    {
+        "name": "Manic Bonfire",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Manic Bonfire.png"
+    },
+    {
+        "name": "Marauder's Sanctuary",
+        "mana_cost": "{1}{R}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Marauders Sanctuary.png"
+    },
+    {
+        "name": "Mat'ergenu, Prophet of Ruin",
+        "mana_cost": "{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Matergenu Prophet of Ruin.png"
+    },
+    {
+        "name": "Mausoleum Fiend",
+        "mana_cost": "{W}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mausoleum Fiend.png"
+    },
+    {
+        "name": "Mechanical Inspector",
+        "mana_cost": "{U}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mechanical Inspector.png"
+    },
+    {
+        "name": "Meletis Artisan",
+        "mana_cost": "{4}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Meletis Artisan.png"
+    },
+    {
+        "name": "Merciless Chamberlain",
+        "mana_cost": "{1}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Merciless Chamberlain.png"
+    },
+    {
+        "name": "Mindresdorth, Dragon Realm",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mindresdorth Dragon Realm.png"
+    },
+    {
+        "name": "Mining Installation",
+        "mana_cost": "{1}{R}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mining Installation.png"
+    },
+    {
+        "name": "Mirage Oasis",
+        "mana_cost": "{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mirage Oasis.png"
+    },
+    {
+        "name": "Mirrors of Angashator",
+        "mana_cost": "{4}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mirrors of Angashator.png"
+    },
+    {
+        "name": "Mistress of Blades",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mistress of Blades.png"
+    },
+    {
+        "name": "Moonlight Biome",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Moonlight Biome.png"
+    },
+    {
+        "name": "Moonshadow Freebooter",
+        "mana_cost": "{2}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Moonshadow Freebooter.png"
+    },
+    {
+        "name": "Morgaine, the Curseweaver",
+        "mana_cost": "{U}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Morgaine the Curseweaver.png"
+    },
+    {
+        "name": "Morning Witch Hunt",
+        "mana_cost": "{W}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Morning Witch Hunt.png"
+    },
+    {
+        "name": "Morrigan",
+        "mana_cost": "{1}{R}{R}",
+        "type": "Summon Harpy Legend",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Morrigan.png"
+    },
+    {
+        "name": "Mouse Dragon",
+        "mana_cost": "{1}{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mouse Dragon.png"
+    },
+    {
+        "name": "Mox Amethyst",
+        "mana_cost": "{0}",
+        "type": "Legendary Artifact",
+        "back": {
+            "name": "Korphirax, Sovereign Unsealed",
+            "type": "Legendary Creature",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mox Amethyst_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mox Amethyst_a.png"
+    },
+    {
+        "name": "Mox Bismuth",
+        "mana_cost": "{0}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mox Bismuth.png"
+    },
+    {
+        "name": "Mul Daya Seed Warden",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mul Daya Seed Warden.png"
+    },
+    {
+        "name": "Munda, the Spider",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Munda the Spider.png"
+    },
+    {
+        "name": "Mycelium Perimeter",
+        "mana_cost": "{1}{G}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mycelium Perimeter.png"
+    },
+    {
+        "name": "Mystic Convocation",
+        "mana_cost": "{R}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mystic Convocation.png"
+    },
+    {
+        "name": "Mystic Waygate",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mystic Waygate.png"
+    },
+    {
+        "name": "Mystic Wind Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Mystic Wind Temple.png"
+    },
+    {
+        "name": "Naesasia, The Sunlit Frost",
+        "mana_cost": "{U}",
+        "type": "Legendary Snow Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Naesasia The Sunlit Frost.png"
+    },
+    {
+        "name": "Nakai, Ancient Teacher",
+        "mana_cost": "{1}{G}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nakai Ancient Teacher.png"
+    },
+    {
+        "name": "Necrotic Wind",
+        "mana_cost": "{B}{G}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Necrotic Wind.png"
+    },
+    {
+        "name": "Neon Freebooter",
+        "mana_cost": "{1}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Neon Freebooter.png"
+    },
+    {
+        "name": "Nerevara, Radiant Justicar",
+        "mana_cost": "{6}{W}{W}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nerevara Radiant Justicar.png"
+    },
+    {
+        "name": "Nexus Arcanus",
+        "mana_cost": "{2}{U}{U}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nexus Arcanus.png"
+    },
+    {
+        "name": "Nexus of Lies",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nexus of Lies.png"
+    },
+    {
+        "name": "Night of Horrors",
+        "mana_cost": "{3}{B}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Night of Horrors.png"
+    },
+    {
+        "name": "Night-Eyes Totem",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Night-Eyes Totem.png"
+    },
+    {
+        "name": "Nightbreeze Avenger",
+        "mana_cost": "{1}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nightbreeze Avenger.png"
+    },
+    {
+        "name": "Nihkianbi, Wasteland Mimic",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nihkianbi Wasteland Mimic.png"
+    },
+    {
+        "name": "Nokuum, Dynasty Oracle",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nokuum Dynasty Oracle.png"
+    },
+    {
+        "name": "Northern Sunrise",
+        "mana_cost": "{G}",
+        "type": "Snow Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Northern Sunrise.png"
+    },
+    {
+        "name": "Northern Terminus",
+        "mana_cost": "",
+        "type": "Snow Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Northern Terminus.png"
+    },
+    {
+        "name": "Noxious Dwelling",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Noxious Dwelling.png"
+    },
+    {
+        "name": "Nullifying Lichcraft",
+        "mana_cost": "{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nullifying Lichcraft.png"
+    },
+    {
+        "name": "Nythrodain, the Library City",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nythrodain the Library City.png"
+    },
+    {
+        "name": "Nyx Starfall",
+        "mana_cost": "{0}",
+        "type": "Legendary Enchantment Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Nyx Starfall.png"
+    },
+    {
+        "name": "Oathbeacon Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Oathbeacon Temple.png"
+    },
+    {
+        "name": "Oathcursed Blade",
+        "mana_cost": "{1}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Oathcursed Blade.png"
+    },
+    {
+        "name": "Obcenasith, Prophet of Might",
+        "mana_cost": "{4}{B}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Obcenasith Prophet of Might.png"
+    },
+    {
+        "name": "Obsidian Aurora",
+        "mana_cost": "{1}",
+        "type": "Enchantment Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Obsidian Aurora.png"
+    },
+    {
+        "name": "Occult Procession",
+        "mana_cost": "{X}{W}{W}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Occult Procession.png"
+    },
+    {
+        "name": "Ocean of Dreams",
+        "mana_cost": "{1}{U}{U}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ocean of Dreams.png"
+    },
+    {
+        "name": "Old Henry",
+        "mana_cost": "{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Old Henry.png"
+    },
+    {
+        "name": "Old Master Sarai",
+        "mana_cost": "{R}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Old Master Sarai.png"
+    },
+    {
+        "name": "Oligarch's Cathedral",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Oligarchs Cathedral.png"
+    },
+    {
+        "name": "Omenquoth",
+        "mana_cost": "{1}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Omenquoth.png"
+    },
+    {
+        "name": "Ominous Gate",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ominous Gate.png"
+    },
+    {
+        "name": "Onslaught of the Shadow Legion",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Onslaught of the Shadow Legion.png"
+    },
+    {
+        "name": "Open The Eyes of the World",
+        "mana_cost": "{R}{G}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Open The Eyes of the World.png"
+    },
+    {
+        "name": "Opening Encounter",
+        "mana_cost": "{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Opening Encounter.png"
+    },
+    {
+        "name": "Os'Uman, Keeper of the Keys",
+        "mana_cost": "{W}{U}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/OsUman Keeper of the Keys.png"
+    },
+    {
+        "name": "Oshaenanore, the Farstone",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Oshaenanore the Farstone.png"
+    },
+    {
+        "name": "Otherseeker",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Otherseeker.png"
+    },
+    {
+        "name": "Palantir of Qotrixi",
+        "mana_cost": "{1}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Palantir of Qotrixi.png"
+    },
+    {
+        "name": "Paradox Factory",
+        "mana_cost": "{1}{U}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Paradox Factory.png"
+    },
+    {
+        "name": "Parley",
+        "mana_cost": "{U}",
+        "type": "Kindred Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Parley.png"
+    },
+    {
+        "name": "Periphery Stalker",
+        "mana_cost": "{U}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Periphery Stalker.png"
+    },
+    {
+        "name": "Phial of Acid",
+        "mana_cost": "{R}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Phial of Acid.png"
+    },
+    {
+        "name": "Phyrexian Parasite",
+        "mana_cost": "{2}{B}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Phyrexian Parasite.png"
+    },
+    {
+        "name": "Phyrexian Rampage",
+        "mana_cost": "{3}{G}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Phyrexian Rampage.png"
+    },
+    {
+        "name": "Phyrexian Trading Post",
+        "mana_cost": "{P}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Phyrexian Trading Post.png"
+    },
+    {
+        "name": "Piranai, The Blighted Bloom",
+        "mana_cost": "{B/G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Piranai The Blighted Bloom.png"
+    },
+    {
+        "name": "Pirate Class",
+        "mana_cost": "{U}{B}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Pirate Class.png"
+    },
+    {
+        "name": "Power of Relinquished",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Power of Relinquished.png"
+    },
+    {
+        "name": "Premonition Engine",
+        "mana_cost": "{1}{U}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Premonition Engine.png"
+    },
+    {
+        "name": "Prex, Radical Prodigy",
+        "mana_cost": "{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Prex Radical Prodigy.png"
+    },
+    {
+        "name": "Priest of the Crimson Oil",
+        "mana_cost": "{1}{W}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Priest of the Crimson Oil.png"
+    },
+    {
+        "name": "Probe the Depths",
+        "mana_cost": "{X}{U}",
+        "type": "Instant",
+        "back": {
+            "name": "Augur of the Abyss",
+            "type": "Creature",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Probe the Depths_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Probe the Depths_a.png"
+    },
+    {
+        "name": "Protean Titan",
+        "mana_cost": "{7}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Protean Titan.png"
+    },
+    {
+        "name": "Protector of the Hive",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Protector of the Hive.png"
+    },
+    {
+        "name": "Psychic Ascension",
+        "mana_cost": "{1}{U}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Psychic Ascension.png"
+    },
+    {
+        "name": "Psychic Inversion",
+        "mana_cost": "{3}{U}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Psychic Inversion.png"
+    },
+    {
+        "name": "Psychopomp's Ferry",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Psychopomps Ferry.png"
+    },
+    {
+        "name": "Pyramid Curator",
+        "mana_cost": "{1}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Pyramid Curator.png"
+    },
+    {
+        "name": "Pyramid Guardian",
+        "mana_cost": "{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Pyramid Guardian.png"
+    },
+    {
+        "name": "Pyre of the Coven",
+        "mana_cost": "{3}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Pyre of the Coven.png"
+    },
+    {
+        "name": "Pyretic Pillage",
+        "mana_cost": "{2}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Pyretic Pillage.png"
+    },
+    {
+        "name": "Quasar Geyser",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Quasar Geyser.png"
+    },
+    {
+        "name": "Quatz, Hammer of the Citadel",
+        "mana_cost": "{6}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Quatz Hammer of the Citadel.png"
+    },
+    {
+        "name": "Quid Pro Quo",
+        "mana_cost": "{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Quid Pro Quo.png"
+    },
+    {
+        "name": "Ra'Talai, of the Sunken City",
+        "mana_cost": "{1}{U}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/RaTalai of the Sunken City.png"
+    },
+    {
+        "name": "Rajesh, Imperial Power Broker",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rajesh Imperial Power Broker.png"
+    },
+    {
+        "name": "Rambunctious Scallywag",
+        "mana_cost": "{2}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rambunctious Scallywag.png"
+    },
+    {
+        "name": "Rath Nokar, City of Fire",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rath Nokar City of Fire.png"
+    },
+    {
+        "name": "Ravenify",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ravenify.png"
+    },
+    {
+        "name": "Ravnican Renaissance",
+        "mana_cost": "{U}{U}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ravnican Renaissance.png"
+    },
+    {
+        "name": "Realm-Spanning Battle",
+        "mana_cost": "{U}{R}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Realm-Spanning Battle.png"
+    },
+    {
+        "name": "Reckless Conclusions",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Reckless Conclusions.png"
+    },
+    {
+        "name": "Reckless Dungeoneers",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Reckless Dungeoneers.png"
+    },
+    {
+        "name": "Reclamation of Zendikar",
+        "mana_cost": "{2}{G}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Reclamation of Zendikar.png"
+    },
+    {
+        "name": "Regrowth of Dragonfire",
+        "mana_cost": "{R}{G}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Regrowth of Dragonfire.png"
+    },
+    {
+        "name": "Relic Hunter",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Relic Hunter.png"
+    },
+    {
+        "name": "Rem, Wandering Terraturge",
+        "mana_cost": "{3}",
+        "type": "Legendary Artifact Planeswalker",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rem Wandering Terraturge.png"
+    },
+    {
+        "name": "Replicant Assembly",
+        "mana_cost": "{3}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Replicant Assembly.png"
+    },
+    {
+        "name": "Revenge of the Dreadents",
+        "mana_cost": "{1}{G}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Revenge of the Dreadents.png"
+    },
+    {
+        "name": "Reverse Entropy Pyramid",
+        "mana_cost": "{4}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Reverse Entropy Pyramid.png"
+    },
+    {
+        "name": "Ring of the Mad Mage",
+        "mana_cost": "{8}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ring of the Mad Mage.png"
+    },
+    {
+        "name": "Riverfall Dreamscape",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Riverfall Dreamscape.png"
+    },
+    {
+        "name": "Rogue's Abyss",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rogues Abyss.png"
+    },
+    {
+        "name": "Rootroof Dreamscape",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rootroof Dreamscape.png"
+    },
+    {
+        "name": "Ruined Metropolis",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ruined Metropolis.png"
+    },
+    {
+        "name": "Ruinous Siphon",
+        "mana_cost": "{B}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ruinous Siphon.png"
+    },
+    {
+        "name": "Ruins of Gitrog Bog",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ruins of Gitrog Bog.png"
+    },
+    {
+        "name": "Rune of Terror",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rune of Terror.png"
+    },
+    {
+        "name": "Rusted Sojourner",
+        "mana_cost": "{1}{W}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Rusted Sojourner.png"
+    },
+    {
+        "name": "Ruthless Kingmaker",
+        "mana_cost": "{1}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ruthless Kingmaker.png"
+    },
+    {
+        "name": "Sage of Vainamoinen",
+        "mana_cost": "{1}{G}",
+        "type": "Snow Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sage of Vainamoinen.png"
+    },
+    {
+        "name": "Santeria",
+        "mana_cost": "{X}{B}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Santeria.png"
+    },
+    {
+        "name": "Saoirse, Relic Thief",
+        "mana_cost": "{U}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Saoirse Relic Thief.png"
+    },
+    {
+        "name": "Scroll of Unending Bureaucracy",
+        "mana_cost": "{3}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Scroll of Unending Bureaucracy.png"
+    },
+    {
+        "name": "Search the Spirit Realm",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Search the Spirit Realm.png"
+    },
+    {
+        "name": "Secret Lagoon",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Secret Lagoon.png"
+    },
+    {
+        "name": "Secure the Essentials",
+        "mana_cost": "{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Secure the Essentials.png"
+    },
+    {
+        "name": "Seductive Bargain",
+        "mana_cost": "{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Seductive Bargain.png"
+    },
+    {
+        "name": "Sekhmet Ritual",
+        "mana_cost": "{2}{B}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sekhmet Ritual.png"
+    },
+    {
+        "name": "Seraph of Mercy",
+        "mana_cost": "{3}{W}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Seraph of Mercy.png"
+    },
+    {
+        "name": "Seti, Rebel Leader",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Seti Rebel Leader.png"
+    },
+    {
+        "name": "Settlers of Catan",
+        "mana_cost": "{G/W}{U}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Settlers of Catan.png"
+    },
+    {
+        "name": "Shadow Garden Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Shadow Garden Temple.png"
+    },
+    {
+        "name": "Shallan, the Lightweaver",
+        "mana_cost": "{G}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Shallan the Lightweaver.png"
+    },
+    {
+        "name": "Shape the Shadows",
+        "mana_cost": "{G}{G}{U}{U}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Shape the Shadows.png"
+    },
+    {
+        "name": "Sheoldred's Derision",
+        "mana_cost": "{B/P}{B/P}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sheoldreds Derision.png"
+    },
+    {
+        "name": "Shimmering Tomorrow",
+        "mana_cost": "{2}{U}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Shimmering Tomorrow.png"
+    },
+    {
+        "name": "Sickening Shadow",
+        "mana_cost": "{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sickening Shadow.png"
+    },
+    {
+        "name": "Sightless Surveyor",
+        "mana_cost": "{4}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sightless Surveyor.png"
+    },
+    {
+        "name": "Silrien, Lady of Gifts",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Silrien Lady of Gifts.png"
+    },
+    {
+        "name": "Sitting Idol",
+        "mana_cost": "{1}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sitting Idol.png"
+    },
+    {
+        "name": "Skekra, the Deceiver",
+        "mana_cost": "{5}{U}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Skekra the Deceiver.png"
+    },
+    {
+        "name": "Skylark Streamsong",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Skylark Streamsong.png"
+    },
+    {
+        "name": "Sleepless Oracle",
+        "mana_cost": "{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sleepless Oracle.png"
+    },
+    {
+        "name": "Slickskin Gladiator",
+        "mana_cost": "{2}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Slickskin Gladiator.png"
+    },
+    {
+        "name": "Soul Projection",
+        "mana_cost": "{G}{U}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Soul Projection.png"
+    },
+    {
+        "name": "Soulfire Monastery",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Soulfire Monastery.png"
+    },
+    {
+        "name": "Sound Beast Storm",
+        "mana_cost": "{2}{G}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sound Beast Storm.png"
+    },
+    {
+        "name": "Spark Excavator",
+        "mana_cost": "{1}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spark Excavator.png"
+    },
+    {
+        "name": "Spiral",
+        "mana_cost": "{U}",
+        "type": "Instant // Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spiral.png"
+    },
+    {
+        "name": "Spirit of Ada",
+        "mana_cost": "{2}{G}{G}",
+        "type": "Creature",
+        "back": {
+            "name": "Spirit of Diwala",
+            "type": "Creature",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spirit of Ada_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spirit of Ada_a.png"
+    },
+    {
+        "name": "Spirit of Discovery",
+        "mana_cost": "{4}{G}{W}",
+        "type": "Enchantment Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spirit of Discovery.png"
+    },
+    {
+        "name": "Spoils of Conquest",
+        "mana_cost": "{1}{R}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spoils of Conquest.png"
+    },
+    {
+        "name": "Spoocat Bedlam",
+        "mana_cost": "{B}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spoocat Bedlam.png"
+    },
+    {
+        "name": "Spyder",
+        "mana_cost": "{1}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Spyder.png"
+    },
+    {
+        "name": "Starfall, the Avaricious",
+        "mana_cost": "{10}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Starfall the Avaricious.png"
+    },
+    {
+        "name": "Starfist Battlemage",
+        "mana_cost": "{G}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Starfist Battlemage.png"
+    },
+    {
+        "name": "Steamroll the Session",
+        "mana_cost": "{X}{G}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Steamroll the Session.png"
+    },
+    {
+        "name": "Stellar Calliope",
+        "mana_cost": "{X}{Y}{W}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Stellar Calliope.png"
+    },
+    {
+        "name": "Stratosphere Surveyor",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Stratosphere Surveyor.png"
+    },
+    {
+        "name": "Strength of the Party",
+        "mana_cost": "{W}",
+        "type": "Enchantment // Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Strength of the Party.png"
+    },
+    {
+        "name": "Striding Stones",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Striding Stones.png"
+    },
+    {
+        "name": "Student of Butchery",
+        "mana_cost": "{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Student of Butchery.png"
+    },
+    {
+        "name": "Stuff the Scarecrows",
+        "mana_cost": "{2}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Stuff the Scarecrows.png"
+    },
+    {
+        "name": "Stylish Strike",
+        "mana_cost": "{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Stylish Strike.png"
+    },
+    {
+        "name": "Subsume the Host",
+        "mana_cost": "{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Subsume the Host.png"
+    },
+    {
+        "name": "Sudden Rage",
+        "mana_cost": "{R}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sudden Rage.png"
+    },
+    {
+        "name": "Sukani's Treason",
+        "mana_cost": "{1}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sukanis Treason.png"
+    },
+    {
+        "name": "Summon Through Time",
+        "mana_cost": "{U}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Summon Through Time.png"
+    },
+    {
+        "name": "Sundered Horizon",
+        "mana_cost": "{1}{G}{U}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sundered Horizon.png"
+    },
+    {
+        "name": "Sunkissed Dreamscape",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sunkissed Dreamscape.png"
+    },
+    {
+        "name": "Swamp Lurker",
+        "mana_cost": "{1}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Swamp Lurker.png"
+    },
+    {
+        "name": "Swiftbeacon Priestess",
+        "mana_cost": "{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Swiftbeacon Priestess.png"
+    },
+    {
+        "name": "Sylvan Colossus",
+        "mana_cost": "{1}{G}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Sylvan Colossus.png"
+    },
+    {
+        "name": "Taelon Vama",
+        "mana_cost": "{2}{W}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Taelon Vama.png"
+    },
+    {
+        "name": "Tainted Lotus",
+        "mana_cost": "{0}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Tainted Lotus.png"
+    },
+    {
+        "name": "Tal Dagoth, Lord of Nightmares",
+        "mana_cost": "{1}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Tal Dagoth Lord of Nightmares.png"
+    },
+    {
+        "name": "Technocherub",
+        "mana_cost": "{4}{W}{U}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Technocherub.png"
+    },
+    {
+        "name": "Temur Spirit Conduit",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Temur Spirit Conduit.png"
+    },
+    {
+        "name": "Terracotta Champion",
+        "mana_cost": "{2}{W}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Terracotta Champion.png"
+    },
+    {
+        "name": "Terraform Engine",
+        "mana_cost": "{R}{G}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Terraform Engine.png"
+    },
+    {
+        "name": "Terrestrial Damacy",
+        "mana_cost": "{R}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Terrestrial Damacy.png"
+    },
+    {
+        "name": "Teyaxoch, Hero of Orazca",
+        "mana_cost": "{2}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Teyaxoch Hero of Orazca.png"
+    },
+    {
+        "name": "Thallid Nursery",
+        "mana_cost": "{G}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Thallid Nursery.png"
+    },
+    {
+        "name": "The Alignment of the Spheres",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Alignment of the Spheres.png"
+    },
+    {
+        "name": "The Binding of Ykak Morar",
+        "mana_cost": "{W}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Binding of Ykak Morar.png"
+    },
+    {
+        "name": "The Blessing of Makahala",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Blessing of Makahala.png"
+    },
+    {
+        "name": "The Broken Altar",
+        "mana_cost": "{1}",
+        "type": "Legendary Artifact",
+        "back": {
+            "name": "Interitus, Darkness Unleashed",
+            "type": "Legendary Planeswalker",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Broken Altar_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Broken Altar_a.png"
+    },
+    {
+        "name": "The Chosen One",
+        "mana_cost": "{8}{W}{U}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Chosen One.png"
+    },
+    {
+        "name": "The Coming of the Mother Storm",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Coming of the Mother Storm.png"
+    },
+    {
+        "name": "The Conquering the Shadow Realm",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Conquering the Shadow Realm.png"
+    },
+    {
+        "name": "The Dark One's Prison",
+        "mana_cost": "{2}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Dark Ones Prison.png"
+    },
+    {
+        "name": "The Dawn Lancet",
+        "mana_cost": "{1}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Dawn Lancet.png"
+    },
+    {
+        "name": "The Discovery of Lost Antiquity",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Discovery of Lost Antiquity.png"
+    },
+    {
+        "name": "The Doom of Moria",
+        "mana_cost": "{1}{R}",
+        "type": "Enchantment",
+        "back": {
+            "name": "Durin's Bane",
+            "type": "Legendary Creature",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Doom of Moria_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Doom of Moria_a.png"
+    },
+    {
+        "name": "The Dousing Grove",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Dousing Grove.png"
+    },
+    {
+        "name": "The Dragon God's Revenge",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Dragon Gods Revenge.png"
+    },
+    {
+        "name": "The Drowned Queen",
+        "mana_cost": "{U}{B}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Drowned Queen.png"
+    },
+    {
+        "name": "The Eureka Moment",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Eureka Moment.png"
+    },
+    {
+        "name": "The Gods Take Notice",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Gods Take Notice.png"
+    },
+    {
+        "name": "The Grand Imperial Museum",
+        "mana_cost": "",
+        "type": "Legendary Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Grand Imperial Museum.png"
+    },
+    {
+        "name": "The Great Hunt",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Great Hunt.png"
+    },
+    {
+        "name": "The Infinity Key",
+        "mana_cost": "{U}{R}{W}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Infinity Key.png"
+    },
+    {
+        "name": "The Lake of Fallen Blades",
+        "mana_cost": "",
+        "type": "Legendary Snow Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Lake of Fallen Blades.png"
+    },
+    {
+        "name": "The Living Tribunal",
+        "mana_cost": "{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Living Tribunal.png"
+    },
+    {
+        "name": "The Loot Dimension",
+        "mana_cost": "{1}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Loot Dimension.png"
+    },
+    {
+        "name": "The Mantle of Rule",
+        "mana_cost": "{1}{W}{W}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Mantle of Rule.png"
+    },
+    {
+        "name": "The Melsalin Gates",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Melsalin Gates.png"
+    },
+    {
+        "name": "The Ninth Gate",
+        "mana_cost": "",
+        "type": "Legendary Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Ninth Gate.png"
+    },
+    {
+        "name": "The Predator City",
+        "mana_cost": "",
+        "type": "Legendary Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Predator City.png"
+    },
+    {
+        "name": "The Real First Mate",
+        "mana_cost": "{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Real First Mate.png"
+    },
+    {
+        "name": "The Seat of Judgement",
+        "mana_cost": "{B}{B}{B}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Seat of Judgement.png"
+    },
+    {
+        "name": "The Shrike, Lord of Pain",
+        "mana_cost": "{3}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Shrike Lord of Pain.png"
+    },
+    {
+        "name": "The Spark of Nadeon",
+        "mana_cost": "{W}{U}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Spark of Nadeon.png"
+    },
+    {
+        "name": "The Stormlight Archive",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Stormlight Archive.png"
+    },
+    {
+        "name": "The Time Tomb",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Time Tomb.png"
+    },
+    {
+        "name": "The Ultimate Ascension",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Ultimate Ascension.png"
+    },
+    {
+        "name": "The Vestigial Rifts",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Vestigial Rifts.png"
+    },
+    {
+        "name": "The Weeping Giant",
+        "mana_cost": "{3}",
+        "type": "Legendary Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Weeping Giant.png"
+    },
+    {
+        "name": "The Wellspring of Destiny",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Wellspring of Destiny.png"
+    },
+    {
+        "name": "The Wheel of Time",
+        "mana_cost": "{1}{B}{R}",
+        "type": "Legendary Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Wheel of Time.png"
+    },
+    {
+        "name": "The Witch King Karanak",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Witch King Karanak.png"
+    },
+    {
+        "name": "The Witching Hour",
+        "mana_cost": "{R}{W}{B}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/The Witching Hour.png"
+    },
+    {
+        "name": "Thion Qisalor, Realm of Stars",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Thion Qisalor Realm of Stars.png"
+    },
+    {
+        "name": "Threaded Angel",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Threaded Angel.png"
+    },
+    {
+        "name": "Tides of Fate",
+        "mana_cost": "{2}{U}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Tides of Fate.png"
+    },
+    {
+        "name": "Timber Shiverer",
+        "mana_cost": "{1}{B}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Timber Shiverer.png"
+    },
+    {
+        "name": "Time-Fortress Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Time-Fortress Temple.png"
+    },
+    {
+        "name": "Timespren",
+        "mana_cost": "{1}{U}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Timespren.png"
+    },
+    {
+        "name": "Titan Skull Shrine",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Titan Skull Shrine.png"
+    },
+    {
+        "name": "Torhild, the Glorious",
+        "mana_cost": "{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Torhild the Glorious.png"
+    },
+    {
+        "name": "Transcendent Epiphany",
+        "mana_cost": "{R}{R}{R}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Transcendent Epiphany.png"
+    },
+    {
+        "name": "Trap Hole",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Trap Hole.png"
+    },
+    {
+        "name": "Traverse the Precipice",
+        "mana_cost": "{2}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Traverse the Precipice.png"
+    },
+    {
+        "name": "Treacherous Portal",
+        "mana_cost": "{2}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Treacherous Portal.png"
+    },
+    {
+        "name": "Triumph of the Elder Dragon",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Triumph of the Elder Dragon.png"
+    },
+    {
+        "name": "Trunk Hurler Kami",
+        "mana_cost": "{1}{R}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Trunk Hurler Kami.png"
+    },
+    {
+        "name": "Twisting Sanity",
+        "mana_cost": "{X}{X}{1}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Twisting Sanity.png"
+    },
+    {
+        "name": "Ugualag, Storm Conduit",
+        "mana_cost": "{G}{U}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ugualag Storm Conduit.png"
+    },
+    {
+        "name": "Um Osri, the World of Ideas",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Um Osri the World of Ideas.png"
+    },
+    {
+        "name": "Umaule, Elder Oneiromancer",
+        "mana_cost": "{1}{U}{U}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Umaule Elder Oneiromancer.png"
+    },
+    {
+        "name": "Underworld Fleshhook",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Underworld Fleshhook.png"
+    },
+    {
+        "name": "Undying Conflict",
+        "mana_cost": "{B}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Undying Conflict.png"
+    },
+    {
+        "name": "Unfold the Pattern",
+        "mana_cost": "{U}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Unfold the Pattern.png"
+    },
+    {
+        "name": "Unleash the Hexgorger",
+        "mana_cost": "{G}{U}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Unleash the Hexgorger.png"
+    },
+    {
+        "name": "Unsheathe the Cursed Cutlass",
+        "mana_cost": "{1}{B}",
+        "type": "Kindred Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Unsheathe the Cursed Cutlass.png"
+    },
+    {
+        "name": "Urabrask's Redemption",
+        "mana_cost": "{R/P}{R/P}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Urabrasks Redemption.png"
+    },
+    {
+        "name": "Uriel, of the Eternal Flame",
+        "mana_cost": "{2}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Uriel of the Eternal Flame.png"
+    },
+    {
+        "name": "Urza's Gourmet",
+        "mana_cost": "{2}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Urzas Gourmet.png"
+    },
+    {
+        "name": "Urza's Sushi Bar",
+        "mana_cost": "",
+        "type": "Artifact Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Urzas Sushi Bar.png"
+    },
+    {
+        "name": "Vagrdrifa, Soul of the Sword",
+        "mana_cost": "{4}{R}{W}",
+        "type": "Legendary Creature",
+        "back": {
+            "name": "Banama\u00f0r",
+            "type": "artifact",
+            "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vagrdrifa Soul of the Sword_b.png"
+        },
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vagrdrifa Soul of the Sword_a.png"
+    },
+    {
+        "name": "Vamgrund, the Dreadflame",
+        "mana_cost": "{R}{W}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vamgrund the Dreadflame.png"
+    },
+    {
+        "name": "Vammatar",
+        "mana_cost": "{B}{B}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vammatar.png"
+    },
+    {
+        "name": "Vampire Banquet",
+        "mana_cost": "{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vampire Banquet.png"
+    },
+    {
+        "name": "Vampiric Ascendancy",
+        "mana_cost": "{R}{R}{R}",
+        "type": "Enchantment",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vampiric Ascendancy.png"
+    },
+    {
+        "name": "Vampiric Piracy",
+        "mana_cost": "{U}{B}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vampiric Piracy.png"
+    },
+    {
+        "name": "Vanguard Captain of Bant",
+        "mana_cost": "{2}{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vanguard Captain of Bant.png"
+    },
+    {
+        "name": "Varu, the Crimson Fox",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Planeswalker",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Varu the Crimson Fox.png"
+    },
+    {
+        "name": "Vengeful Archfiend",
+        "mana_cost": "{6}",
+        "type": "Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vengeful Archfiend.png"
+    },
+    {
+        "name": "Verdant Sky Temple",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Verdant Sky Temple.png"
+    },
+    {
+        "name": "Villainous Inception",
+        "mana_cost": "{2}{R}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Villainous Inception.png"
+    },
+    {
+        "name": "Vircek Broodwarden",
+        "mana_cost": "{2}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Broodwarden.png"
+    },
+    {
+        "name": "Vircek Extraction",
+        "mana_cost": "{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Extraction.png"
+    },
+    {
+        "name": "Vircek Hellion",
+        "mana_cost": "{3}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Hellion.png"
+    },
+    {
+        "name": "Vircek Incubation Pod",
+        "mana_cost": "{R}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Incubation Pod.png"
+    },
+    {
+        "name": "Vircek Plaguebearer",
+        "mana_cost": "{1}{B}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Plaguebearer.png"
+    },
+    {
+        "name": "Vircek Shapeshifter",
+        "mana_cost": "{2}{R}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Shapeshifter.png"
+    },
+    {
+        "name": "Vircek Slimewalker",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Slimewalker.png"
+    },
+    {
+        "name": "Vircek Swarm Invasion",
+        "mana_cost": "{2}{U}{B}{R}{G}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vircek Swarm Invasion.png"
+    },
+    {
+        "name": "Virulent Hulk",
+        "mana_cost": "{2}{G}{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Virulent Hulk.png"
+    },
+    {
+        "name": "Void Tome",
+        "mana_cost": "{1}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Void Tome.png"
+    },
+    {
+        "name": "Vorinclex's Conscription",
+        "mana_cost": "{G/P}{G/P}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vorinclexs Conscription.png"
+    },
+    {
+        "name": "Vyre, Prince of Pain",
+        "mana_cost": "{1}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Vyre Prince of Pain.png"
+    },
+    {
+        "name": "Walk the Plank",
+        "mana_cost": "{1}{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Walk the Plank.png"
+    },
+    {
+        "name": "Waterfall Palace",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Waterfall Palace.png"
+    },
+    {
+        "name": "Where Blood Flows as Lava",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Where Blood Flows as Lava.png"
+    },
+    {
+        "name": "Whims of the Tyrant",
+        "mana_cost": "{B}",
+        "type": "Sorcery",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Whims of the Tyrant.png"
+    },
+    {
+        "name": "Whisk to Safety",
+        "mana_cost": "{1}{G}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Whisk to Safety.png"
+    },
+    {
+        "name": "Whisper, the Nameless Fear",
+        "mana_cost": "{W}{B}",
+        "type": "Legendary Enchantment Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Whisper the Nameless Fear.png"
+    },
+    {
+        "name": "White Lotus",
+        "mana_cost": "{0}",
+        "type": "Artifact",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/White Lotus.png"
+    },
+    {
+        "name": "Wind of One Thousand Eyes",
+        "mana_cost": "{4}{W}",
+        "type": "Instant",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Wind of One Thousand Eyes.png"
+    },
+    {
+        "name": "Windcliff Dreamscape",
+        "mana_cost": "",
+        "type": "Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Windcliff Dreamscape.png"
+    },
+    {
+        "name": "Winter Is Coming",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Winter Is Coming.png"
+    },
+    {
+        "name": "Winterwind Apprentice",
+        "mana_cost": "{W}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Winterwind Apprentice.png"
+    },
+    {
+        "name": "Wolgan, the Further",
+        "mana_cost": "{1}{G}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Wolgan the Further.png"
+    },
+    {
+        "name": "Wrath of the Sea God",
+        "mana_cost": "",
+        "type": "Prophecy",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Wrath of the Sea God.png"
+    },
+    {
+        "name": "Xambriava, Vengeful Oracle",
+        "mana_cost": "{3}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Xambriava Vengeful Oracle.png"
+    },
+    {
+        "name": "Xenthil, Gleaming Destiny",
+        "mana_cost": "{6}{W}{W}",
+        "type": "Legendary Artifact Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Xenthil Gleaming Destiny.png"
+    },
+    {
+        "name": "Yageki Storm Sage",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Yageki Storm Sage.png"
+    },
+    {
+        "name": "Yageki Truth Seeker",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Yageki Truth Seeker.png"
+    },
+    {
+        "name": "Yang-Light Moon",
+        "mana_cost": "",
+        "type": "Land // Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Yang-Light Moon.png"
+    },
+    {
+        "name": "Young Phelddagrif",
+        "mana_cost": "{G}",
+        "type": "Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Young Phelddagrif.png"
+    },
+    {
+        "name": "Zabor, Arcane Puppeteer",
+        "mana_cost": "{W}{U}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Zabor Arcane Puppeteer.png"
+    },
+    {
+        "name": "Zachiel, the First Reaper",
+        "mana_cost": "{1}{W}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Zachiel the First Reaper.png"
+    },
+    {
+        "name": "Zheng Yi Sao, Red Fleet Queen",
+        "mana_cost": "{2}{B}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Zheng Yi Sao Red Fleet Queen.png"
+    },
+    {
+        "name": "Ziggy the Odious",
+        "mana_cost": "{2}{R}",
+        "type": "Legendary Creature",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ziggy the Odious.png"
+    },
+    {
+        "name": "Zruareki Shrine",
+        "mana_cost": "",
+        "type": "Legendary Land",
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Zruareki Shrine.png"
+    }
+]
+[DefaultSlot]
+A Dream of Spring
+A God from the Ashes
+A New Hand Touches the Beacon
+A Single Wish Will Be Granted
+Abzan Scorpion Witch
+Accursed Dramargu
+Acolyte of Yawgmoth
+Aeomar, Spiritfarer
+Affluent Patron
+Alchemist's Familiar
+Allomatic Battlemage
+Alter Fate
+Alumaku Caravan
+Ambitious Reconstructor
+Ancestral Favor
+Ancestral Gambit
+Arcane Overload
+Archdruid Vereyana
+Architect of Discord
+Arphoros, the Fallen One
+Artery Drinker
+Ascendant Ascetic
+Ashengroth, Land of Nightmares
+Ashvicar's Tome of Illusion
+Astral Archer
+Attachment
+Avatar of Journeys
+Azure Clepsydra
+Balan Voz, Upstart Conquerer
+Bankai, City of Dark Beasts
+Bazaar Racketeer
+Beckoned to Assimilate
+Bellerophon
+Beloved Scout
+Belugma, Queen of the Marsh
+Bhaskara, the Hierophant
+Biolight Presence
+Birthing Spire
+Black Book of Hermaeus Mora
+Black Market Fence
+Black Sacrement
+Blood Crystal Cavern
+Blood Shaman Temple
+Bloodmoon Shinobi
+Blossom, the Impending Fang
+Bone Valley Temple
+Book of Silenced Screams
+Borderland Druid
+Boss Monster Hydra
+Bottle O'Rum
+Brass Marauder
+Burning Sunset Kirin
+Cackling Amethyst
+Caen Aiqua, the Forest of Tales
+Calculated Clairvoyance
+Call the Deep Ones
+Canon Hunter
+Captain Bane, Ghost of Dragaz
+Captain Greylock, the Undertow
+Captain Saaqa Shankaron
+Captain's Command
+Carissa Brierborn
+Cascading Creation
+Casira of the Ancient Path
+Catpurse Chicanery
+Cemetery Waltz
+Chaos Consumer
+Chaos Nexus
+Charge the Void
+Chart the Mind
+Chromatic Snare
+Chrome Cathedral
+Chumseeker
+City of Bells
+Clockwork Tower
+Code of the Hegemony
+Collapse of the Kingdom
+Colossal Guardian
+Conspicuous Saboteur
+Consult the Archives
+Cosmic Conscription
+Court of the Yellow King
+Covert Demolition
+Cracked Mirror Cultist
+Crashing Herald
+Crown of the Conqueror
+Crypt Crack Key
+Curious Dreamship
+Current Conduit
+Curse of Generosity
+Curse of Lightning
+Curse of the Sovereign
+Cvareh, Visionary Artificer
+Dam Key
+Damaged Stargate
+Daratea, Guardian of Ysanai
+Daratrine, Questing Flame
+Dark Cosmic Jhin
+Dashing Swashbuckler
+Dawn of Growth
+Dead Men Tell No Tales
+Deconstruction Drone
+Deepwood Ritualist
+Demanifest
+Deranged Witness
+Despair Ex Machina
+Desperate Contract
+Destria, Nova Summoner
+Detritus Sovereign
+Devouring Graveminds
+Dig of the Century
+Dissection Ritual
+Dissonant Inquisitor
+Doomwheel
+Dorangrin of the Soulforge
+Draconic Avarice
+Dreadship Raider
+Dream Binder
+Dreamwood Forager
+Dubious Recompense
+Eawen, Battle Librarian
+Echraverra's Vault
+Eikthyrnir, the Blood Harvest
+Eldrazi Spirit Leech
+Eldritch Flame
+Elesh Norn's Subjugation
+Embrace the Nightmare
+Emrakul, Who Shattered the Moon
+Enki, the Regaler
+Enlightened Toad Shrine
+Enscribe the Future
+Epic Adventure
+Eruption Firebird
+Essence Ice
+Eve of the Promised End
+Execrable Urn
+Expand the Hoard
+Experience Infinity
+Explode the Singularity
+Explosive Fireflow
+Expunge the Unholy
+Face Scraper
+Faerie Parry
+Faile, Caretaker of Heirlooms
+Fall of the Empire
+Fallen God
+Fastidious Dungeoneer
+Fathom Corsair
+Fellbrew Hollow
+Feral Fae
+Fiddlestick Slasher
+Final Desolation
+Finding of the Pirate King's Throne
+Firestorm Temple
+Fissure the Blood Glacier
+Flight of Revelations
+Flight of the Dusk Hallows
+Font of the Blood God
+Footpath Dreamscape
+Forerunner of the Machine
+Forgotten Crypt
+Foundry Hedron
+From Earth To Sky
+Frostblossom Temple
+Frostlance Barrage
+Frozen Chain Temple
+Fun Gus, Rot Farmer
+Furious Tutor
+Fy'Alari, the Guiding
+Galactic Palm
+Geist Shark Raid
+Ghirapur Renagade
+Ghost Shadow Lotus
+Glare of the Morotum Eye
+Glass Emanation
+Gloomcap Dreamscape
+Gloomwing Pilgrim
+Gluttonous Ghouls
+Goblet of Victory
+Goblin Aerialist
+Golden Mindscrambler
+Golden Planetarium
+Golgari Plaguecrafter
+Gouda, Brave Companion
+Grafted Spy Network
+Granny Lovett
+Graveshot
+Guardfish Island
+Gubaraka, Quiet Awakener
+Guiding Tree
+Gurren Lagann
+Hadestown
+Halimari Diversion
+Harbinger, Playful Enigma
+Harmony's End
+Headless Headtaker
+Hedron Animus
+Heir of the God-Pharaoh
+Hell of a Time
+Hermit Hideaway
+Holder of the Scales
+Hornswoggle
+Hrokvanar, the Devourer
+Humble Beginning
+Hydrosphere
+Icehammer Keep
+Ignite the Ichor
+Industrial Pantheon
+Infernal Council
+Infinite Starfield Guru
+Inner Sun
+Insatiable Hivequeen
+Inspiring Gleeman
+Intrusion of Oblivion
+It's Time to DDDD-Duel
+Jace's Simulacrum
+Jade River Hunter
+Jan Sul, Mirran Guardian
+Jargrumir Chainbuckle
+Jebediah, First to Till
+Jin Huo, the Swift Sunrise
+Jin-Gitaxias' Manipulation
+Joqi, Dreamspace Guide
+Jotun Dreadlord
+Journey Through Oblivion
+Kaliva, the Liberator
+Kami of Sleepless Nights
+Kelsier, Survivor of Hathsin
+Kezah, the Squandered
+Kharadron Overlord
+Kindlebone Soulsnatcher
+Kinkiba, Who Coils The Leash
+Koaru, Poet of Thunder
+Krosan Dragon
+Kyurem White
+Lai Feng, Empress of Whispers
+Land Ho
+Landlubber's Demise
+Lich Priest Archfiend
+Lichenous Oracle
+Liege of the Torrent
+Lightning Conduit
+Lightning Infuser
+Live Long
+Loral's Sanctuary
+Lost Discus
+Lunatic Visitation
+Maescia, the Flame of Autumn
+Magus Automata
+Manic Bonfire
+Marauder's Sanctuary
+Mat'ergenu, Prophet of Ruin
+Mausoleum Fiend
+Mechanical Inspector
+Meletis Artisan
+Merciless Chamberlain
+Mindresdorth, Dragon Realm
+Mining Installation
+Mirage Oasis
+Mirrors of Angashator
+Mistress of Blades
+Moonlight Biome
+Moonshadow Freebooter
+Morgaine, the Curseweaver
+Morning Witch Hunt
+Morrigan
+Mouse Dragon
+Mox Amethyst
+Mox Bismuth
+Mul Daya Seed Warden
+Munda, the Spider
+Mycelium Perimeter
+Mystic Convocation
+Mystic Waygate
+Mystic Wind Temple
+Naesasia, The Sunlit Frost
+Nakai, Ancient Teacher
+Necrotic Wind
+Neon Freebooter
+Nerevara, Radiant Justicar
+Nexus Arcanus
+Nexus of Lies
+Night of Horrors
+Night-Eyes Totem
+Nightbreeze Avenger
+Nihkianbi, Wasteland Mimic
+Nokuum, Dynasty Oracle
+Northern Sunrise
+Northern Terminus
+Noxious Dwelling
+Nullifying Lichcraft
+Nythrodain, the Library City
+Nyx Starfall
+Oathbeacon Temple
+Oathcursed Blade
+Obcenasith, Prophet of Might
+Obsidian Aurora
+Occult Procession
+Ocean of Dreams
+Old Henry
+Old Master Sarai
+Oligarch's Cathedral
+Omenquoth
+Ominous Gate
+Onslaught of the Shadow Legion
+Open The Eyes of the World
+Opening Encounter
+Os'Uman, Keeper of the Keys
+Oshaenanore, the Farstone
+Otherseeker
+Palantir of Qotrixi
+Paradox Factory
+Parley
+Periphery Stalker
+Phial of Acid
+Phyrexian Parasite
+Phyrexian Rampage
+Phyrexian Trading Post
+Piranai, The Blighted Bloom
+Pirate Class
+Power of Relinquished
+Premonition Engine
+Prex, Radical Prodigy
+Priest of the Crimson Oil
+Probe the Depths
+Protean Titan
+Protector of the Hive
+Psychic Ascension
+Psychic Inversion
+Psychopomp's Ferry
+Pyramid Curator
+Pyramid Guardian
+Pyre of the Coven
+Pyretic Pillage
+Quasar Geyser
+Quatz, Hammer of the Citadel
+Quid Pro Quo
+Ra'Talai, of the Sunken City
+Rajesh, Imperial Power Broker
+Rambunctious Scallywag
+Rath Nokar, City of Fire
+Ravenify
+Ravnican Renaissance
+Realm-Spanning Battle
+Reckless Conclusions
+Reckless Dungeoneers
+Reclamation of Zendikar
+Regrowth of Dragonfire
+Relic Hunter
+Rem, Wandering Terraturge
+Replicant Assembly
+Revenge of the Dreadents
+Reverse Entropy Pyramid
+Ring of the Mad Mage
+Riverfall Dreamscape
+Rogue's Abyss
+Rootroof Dreamscape
+Ruined Metropolis
+Ruinous Siphon
+Ruins of Gitrog Bog
+Rune of Terror
+Rusted Sojourner
+Ruthless Kingmaker
+Sage of Vainamoinen
+Santeria
+Saoirse, Relic Thief
+Scroll of Unending Bureaucracy
+Search the Spirit Realm
+Secret Lagoon
+Secure the Essentials
+Seductive Bargain
+Sekhmet Ritual
+Seraph of Mercy
+Seti, Rebel Leader
+Settlers of Catan
+Shadow Garden Temple
+Shallan, the Lightweaver
+Shape the Shadows
+Sheoldred's Derision
+Shimmering Tomorrow
+Sickening Shadow
+Sightless Surveyor
+Silrien, Lady of Gifts
+Sitting Idol
+Skekra, the Deceiver
+Skylark Streamsong
+Sleepless Oracle
+Slickskin Gladiator
+Soul Projection
+Soulfire Monastery
+Sound Beast Storm
+Spark Excavator
+Spiral
+Spirit of Ada
+Spirit of Discovery
+Spoils of Conquest
+Spoocat Bedlam
+Spyder
+Starfall, the Avaricious
+Starfist Battlemage
+Steamroll the Session
+Stellar Calliope
+Stratosphere Surveyor
+Strength of the Party
+Striding Stones
+Student of Butchery
+Stuff the Scarecrows
+Stylish Strike
+Subsume the Host
+Sudden Rage
+Sukani's Treason
+Summon Through Time
+Sundered Horizon
+Sunkissed Dreamscape
+Swamp Lurker
+Swiftbeacon Priestess
+Sylvan Colossus
+Taelon Vama
+Tainted Lotus
+Tal Dagoth, Lord of Nightmares
+Technocherub
+Temur Spirit Conduit
+Terracotta Champion
+Terraform Engine
+Terrestrial Damacy
+Teyaxoch, Hero of Orazca
+Thallid Nursery
+The Alignment of the Spheres
+The Binding of Ykak Morar
+The Blessing of Makahala
+The Broken Altar
+The Chosen One
+The Coming of the Mother Storm
+The Conquering the Shadow Realm
+The Dark One's Prison
+The Dawn Lancet
+The Discovery of Lost Antiquity
+The Doom of Moria
+The Dousing Grove
+The Dragon God's Revenge
+The Drowned Queen
+The Eureka Moment
+The Gods Take Notice
+The Grand Imperial Museum
+The Great Hunt
+The Infinity Key
+The Lake of Fallen Blades
+The Living Tribunal
+The Loot Dimension
+The Mantle of Rule
+The Melsalin Gates
+The Ninth Gate
+The Predator City
+The Real First Mate
+The Seat of Judgement
+The Shrike, Lord of Pain
+The Spark of Nadeon
+The Stormlight Archive
+The Time Tomb
+The Ultimate Ascension
+The Vestigial Rifts
+The Weeping Giant
+The Wellspring of Destiny
+The Wheel of Time
+The Witch King Karanak
+The Witching Hour
+Thion Qisalor, Realm of Stars
+Threaded Angel
+Tides of Fate
+Timber Shiverer
+Time-Fortress Temple
+Timespren
+Titan Skull Shrine
+Torhild, the Glorious
+Transcendent Epiphany
+Trap Hole
+Traverse the Precipice
+Treacherous Portal
+Triumph of the Elder Dragon
+Trunk Hurler Kami
+Twisting Sanity
+Ugualag, Storm Conduit
+Um Osri, the World of Ideas
+Umaule, Elder Oneiromancer
+Underworld Fleshhook
+Undying Conflict
+Unfold the Pattern
+Unleash the Hexgorger
+Unsheathe the Cursed Cutlass
+Urabrask's Redemption
+Uriel, of the Eternal Flame
+Urza's Gourmet
+Urza's Sushi Bar
+Vagrdrifa, Soul of the Sword
+Vamgrund, the Dreadflame
+Vammatar
+Vampire Banquet
+Vampiric Ascendancy
+Vampiric Piracy
+Vanguard Captain of Bant
+Varu, the Crimson Fox
+Vengeful Archfiend
+Verdant Sky Temple
+Villainous Inception
+Vircek Broodwarden
+Vircek Extraction
+Vircek Hellion
+Vircek Incubation Pod
+Vircek Plaguebearer
+Vircek Shapeshifter
+Vircek Slimewalker
+Vircek Swarm Invasion
+Virulent Hulk
+Void Tome
+Vorinclex's Conscription
+Vyre, Prince of Pain
+Walk the Plank
+Waterfall Palace
+Where Blood Flows as Lava
+Whims of the Tyrant
+Whisk to Safety
+Whisper, the Nameless Fear
+White Lotus
+Wind of One Thousand Eyes
+Windcliff Dreamscape
+Winter Is Coming
+Winterwind Apprentice
+Wolgan, the Further
+Wrath of the Sea God
+Xambriava, Vengeful Oracle
+Xenthil, Gleaming Destiny
+Yageki Storm Sage
+Yageki Truth Seeker
+Yang-Light Moon
+Young Phelddagrif
+Zabor, Arcane Puppeteer
+Zachiel, the First Reaper
+Zheng Yi Sao, Red Fleet Queen
+Ziggy the Odious
+Zruareki Shrine
