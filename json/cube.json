@@ -1383,10 +1383,10 @@
         "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kelsier Survivor of Hathsin.png"
     },
     {
-        "name": "Kezah, the Liar",
+        "name": "Kezah, the Squandered",
         "mana_cost": "{W}",
         "type": "Legendary Artifact Creature",
-        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kezah the Liar.png"
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kezah the Squandered.png"
     },
     {
         "name": "Kharadron Overlord",
@@ -3278,10 +3278,10 @@
         "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Zheng Yi Sao Red Fleet Queen.png"
     },
     {
-        "name": "Ziggy the Imp",
+        "name": "Ziggy the Odious",
         "mana_cost": "{2}{R}",
         "type": "Legendary Creature",
-        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ziggy the Imp.png"
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ziggy the Odious.png"
     },
     {
         "name": "Zruareki Shrine",

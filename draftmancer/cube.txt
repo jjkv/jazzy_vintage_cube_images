@@ -1384,10 +1384,10 @@
         "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kelsier Survivor of Hathsin.png"
     },
     {
-        "name": "Kezah, the Liar",
+        "name": "Kezah, the Squandered",
         "mana_cost": "{W}",
         "type": "Legendary Artifact Creature",
-        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kezah the Liar.png"
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Kezah the Squandered.png"
     },
     {
         "name": "Kharadron Overlord",
@@ -3279,10 +3279,10 @@
         "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Zheng Yi Sao Red Fleet Queen.png"
     },
     {
-        "name": "Ziggy the Imp",
+        "name": "Ziggy the Odious",
         "mana_cost": "{2}{R}",
         "type": "Legendary Creature",
-        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ziggy the Imp.png"
+        "image": "https://jjkv.github.io/jazzy_vintage_cube_images/output_images/Ziggy the Odious.png"
     },
     {
         "name": "Zruareki Shrine",
@@ -3520,7 +3520,7 @@ Journey Through Oblivion
 Kaliva, the Liberator
 Kami of Sleepless Nights
 Kelsier, Survivor of Hathsin
-Kezah, the Liar
+Kezah, the Squandered
 Kharadron Overlord
 Kindlebone Soulsnatcher
 Kinkiba, Who Coils The Leash
@@ -3830,5 +3830,5 @@ Young Phelddagrif
 Zabor, Arcane Puppeteer
 Zachiel, the First Reaper
 Zheng Yi Sao, Red Fleet Queen
-Ziggy the Imp
+Ziggy the Odious
 Zruareki Shrine
